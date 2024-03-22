@@ -7,7 +7,7 @@
 <h3> - 💬 Ask me about **Web development**</h3>
 <h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡</h3>
 <h3>Fun fact **Still I am learning...**</h3>
-<h3 align="right">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="right">
   <a href="https://codepen.io/billah-dot-dev" target="blank"
     ><img
@@ -91,7 +91,7 @@
   /></a>
   <a href="https://discord.gg/billah-dot-dev" target="blank"
     ><img
-      align="rght"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="billah-dot-dev"
       height="30"
@@ -99,7 +99,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="right">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
