@@ -2,11 +2,28 @@
 <h1 align="center" width="80px">Hi 👋, I'm Masum Billah</h1>
 <h2 align="center">A self-taught web developer dedicated to making online dreams a reality.</h2>
 <br/>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<p>
+name: Masum Billah
+located_in: Manila, Philippines
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+company: Cotton Logic
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "Graphic Design",
+  ]
+  
+currently_learning: ["React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Reading", "Cinema","Art"]
 </p>
 <h3 align="center"></h3>
 <h3>- 🌱 I’m currently learning **Modern Web development technologies.**</h3>
