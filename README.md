@@ -2,11 +2,12 @@
 <h3 align="center">
   A self-taught web developer dedicated to making online dreams a reality.
 </h3>
-
-- 🌱 I’m currently learning **Modern Web development technologies.** - 👨‍💻 All of
-my projects are available at [http://billah.dev](http://billah.dev) - 💬 Ask me
-about **Web development** - 📫 How to reach me **emasumbillah@gmail.com** - ⚡
-Fun fact **Still I am learning...**
+<h3>- 🌱 I’m currently learning **Modern Web development technologies.**</h3>
+<h3>- 👨‍💻 All of my projects are available at [http://billah.dev](http://billah.dev)</h3>
+<h3> - 💬 Ask me about **Web development**</h3>
+<h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡</h3>
+<h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡
+Fun fact **Still I am learning...**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
