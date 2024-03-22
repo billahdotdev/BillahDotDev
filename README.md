@@ -4,7 +4,6 @@
 <h3>- 👨‍💻 All of my projects are available at [http://billah.dev](http://billah.dev)</h3>
 <h3> - 💬 Ask me about **Web development**</h3>
 <h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡</h3>
-<h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡</h3>
 <h3>Fun fact **Still I am learning...**</h3>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
