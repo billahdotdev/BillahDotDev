@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
-<h3 align="center">
-  A self-taught web developer dedicated to making online dreams a reality.
-</h3>
+<h3 align="center">A self-taught web developer dedicated to making online dreams a reality.</h3>
 <h3>- 🌱 I’m currently learning **Modern Web development technologies.**</h3>
 <h3>- 👨‍💻 All of my projects are available at [http://billah.dev](http://billah.dev)</h3>
 <h3> - 💬 Ask me about **Web development**</h3>
 <h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡</h3>
-<h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡
-Fun fact **Still I am learning...**</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>- 📫 How to reach me **emasumbillah@gmail.com** - ⚡</h3>
+<h3>Fun fact **Still I am learning...**</h3>
+<h3 align="right">Connect with me:</h3>
+<p align="right">
   <a href="https://codepen.io/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
       alt="billah-dot-dev"
       height="30"
