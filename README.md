@@ -2,6 +2,12 @@
 <h1 align="center" width="80px">Hi 👋, I'm Masum Billah</h1>
 <h2 align="center">A self-taught web developer dedicated to making online dreams a reality.</h2>
 <br/>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 <h3 align="center"></h3>
 <h3>- 🌱 I’m currently learning **Modern Web development technologies.**</h3>
 <h3>- 👨‍💻 All of my projects are available at http://billah.dev</h3>
