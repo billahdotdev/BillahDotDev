@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://media2.giphy.com/media/V4NSR1NG2p0KeJJyr5/200w.gif?cid=6c09b952yjw60lo9bv8r2t226wgav3m32bv3ushhosfmvren&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="center" width="800" alt="coding" src="https://media2.giphy.com/media/V4NSR1NG2p0KeJJyr5/200w.gif?cid=6c09b952yjw60lo9bv8r2t226wgav3m32bv3ushhosfmvren&ep=v1_gifs_search&rid=200w.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h2 align="center">A self-taught web developer dedicated to making online dreams a reality.</h2>
 <br/>
