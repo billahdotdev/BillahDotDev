@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="[https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif](https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.webp)">
+<img align="center" alt="coding" src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h2 align="center">A self-taught web developer dedicated to making online dreams a reality.</h2>
 <br/>
