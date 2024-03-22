@@ -1,5 +1,5 @@
 <img align="center" alt="coding" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
-<img align="center" alt="coding" src="<img align="center" alt="coding" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif">">
+<img align="center" alt="coding" src="<img align="center" alt="coding" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h2 align="center">A self-taught web developer dedicated to making online dreams a reality.</h2>
 <br/>
