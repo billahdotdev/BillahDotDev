@@ -19,7 +19,7 @@
   /></a>
   <a href="https://dev.to/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
       alt="billah-dot-dev"
       height="30"
@@ -27,7 +27,7 @@
   /></a>
   <a href="https://twitter.com/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="billah-dot-dev"
       height="30"
@@ -35,7 +35,7 @@
   /></a>
   <a href="https://linkedin.com/in/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="billah-dot-dev"
       height="30"
@@ -43,7 +43,7 @@
   /></a>
   <a href="https://stackoverflow.com/users/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="billah-dot-dev"
       height="30"
@@ -51,7 +51,7 @@
   /></a>
   <a href="https://codesandbox.com/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
       alt="billah-dot-dev"
       height="30"
@@ -59,7 +59,7 @@
   /></a>
   <a href="https://fb.com/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="billah-dot-dev"
       height="30"
@@ -67,7 +67,7 @@
   /></a>
   <a href="https://instagram.com/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="billah-dot-dev"
       height="30"
@@ -75,7 +75,7 @@
   /></a>
   <a href="https://medium.com/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="billah-dot-dev"
       height="30"
@@ -83,7 +83,7 @@
   /></a>
   <a href="https://www.hackerrank.com/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="billah-dot-dev"
       height="30"
@@ -91,7 +91,7 @@
   /></a>
   <a href="https://discord.gg/billah-dot-dev" target="blank"
     ><img
-      align="center"
+      align="rght"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="billah-dot-dev"
       height="30"
@@ -100,7 +100,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="right">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
