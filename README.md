@@ -1,4 +1,4 @@
-<img align="left" alt="coding" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp">
+<img align="center" alt="coding" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h2 align="center">A self-taught web developer dedicated to making online dreams a reality.</h2>
 <br/>
