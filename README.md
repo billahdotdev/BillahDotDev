@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
-<h2>A self-taught web developer dedicated to making online dreams a reality.</h2>
+<h2 align="center">A self-taught web developer dedicated to making online dreams a reality.</h2>
 <br/>
 <h3 align="center"></h3>
 <h3>- 🌱 I’m currently learning **Modern Web development technologies.**</h3>
