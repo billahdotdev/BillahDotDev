@@ -1,3 +1,6 @@
+```javascript
+// Welcome to my world!
+
 const displayAboutMe = () => {
   const aboutMe = {
     name: "John Doe / bah-do-dev",
