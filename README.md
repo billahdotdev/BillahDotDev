@@ -1,6 +1,3 @@
-// Welcome to my world!
-<br>
-
 const displayAboutMe = () => {
   const aboutMe = {
     name: "John Doe / bah-do-dev",
