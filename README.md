@@ -1,16 +1,22 @@
-# About Me
+// Welcome to my world!
+<br>
 
-```javascript
-const aboutMe = {
-  name: "John Doe",
-  age: 30,
-  location: "New York",
-  work: "Software Engineer",
-  education: "Bachelor's in Computer Science",
-  interests: ["Coding", "Reading", "Hiking"],
-  contact: {
-    email: "johndoe@example.com",
-    twitter: "@johndoe",
-    github: "github.com/johndoe"
-  }
+const displayAboutMe = () => {
+  const aboutMe = {
+    name: "Masum Billah/ billah-dot-dev",
+    introduction: "I'm a self-taught web developer dedicated to making online dreams a reality.",
+    language: "JavaScript",
+    coreTechnologies: ["MongoDB", "Express", "React", "Node"],
+    tools: ["Git", "Figma", "Inkscape", "Material UI", "and More..."],
+    interests: ["Coding", "Reading", "Travelling"],
+    projectsAreAvailableAt: "http://billah.dev",
+    location: "Manila, Philippines",
+    contact: {
+      email: "emasumbillah@gmail.com",
+      twitter: "@billah-dot-dev",
+    }
+  };
+  console.log(aboutMe);
 };
+
+displayAboutMe();
