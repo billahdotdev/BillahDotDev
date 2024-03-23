@@ -1,38 +1,23 @@
-<pre style="background-color: #000; color: #0f0;">
+<pre style="background-color: #1e1e1e; color: #00ff00; padding: 20px; border-radius: 5px; font-family: 'Courier New', Courier, monospace;">
   <code>
-  &lt;!-- Welcome to my Digital Wonderland! 🚀 --&gt;
-  &lt;h1&gt;Welcome to my Digital Wonderland! 🚀&lt;/h1&gt;
-  &lt;h2&gt;Hi there! I'm Jhon Doe, a passionate self-taught web developer turning ideas into captivating digital experiences!&lt;/h2&gt;
-  
-  &lt;h3&gt;🌱 Currently exploring the endless possibilities of Modern Web Development Technologies.&lt;/h3&gt;
-  &lt;h3&gt;👨‍💻 Dive into my latest projects at &lt;a href="http://doe.dev" target="_blank"&gt;doe.dev&lt;/a&gt;. You might just find something inspiring!&lt;/h3&gt;
-  &lt;h3&gt;💬 Let's have a conversation about the magic of Web Development. Share your thoughts, ideas, and dreams!&lt;/h3&gt;
-  &lt;h3&gt;📫 Reach out to me via email at &lt;a href="mailto:doaah@gmail.com"&gt;doaah@gmail.com&lt;/a&gt;. Let's make magic together!&lt;/h3&gt;
-  &lt;h3&gt;Fun fact: &lt;strong&gt;I believe in the power of continuous learning. Every challenge is an opportunity for growth! 🌟&lt;/strong&gt;&lt;/h3&gt;
-  
-  &lt;h3&gt;Languages and Tools:&lt;/h3&gt;
-  &lt;p&gt;
-      &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"&gt;
-      <!-- Include other tools/icons here -->
-  &lt;/p&gt;
-  
-  &lt;h3&gt;Experience the Journey:&lt;/h3&gt;
-  &lt;ul&gt;
-      &lt;li&gt;🎨 Create stunning user interfaces with the latest design trends and principles.&lt;/li&gt;
-      &lt;li&gt;⚡ Optimize website performance for lightning-fast loading times and seamless user experiences.&lt;/li&gt;
-      &lt;li&gt;🛠️ Build robust and scalable applications using cutting-edge technologies and frameworks.&lt;/li&gt;
-      &lt;li&gt;🔍 Explore innovative solutions to complex problems and challenges.&lt;/li&gt;
-  &lt;/ul&gt;
-  
-  &lt;h3&gt;Let's Connect and Collaborate:&lt;/h3&gt;
-  &lt;p&gt;
-      Connect with me on social media to stay updated with my latest adventures in the digital realm!
-  &lt;/p&gt;
-  &lt;p&gt;
-      &lt;a href="https://twitter.com/jhondoe" target="_blank"&gt;Twitter&lt;/a&gt; | 
-      &lt;a href="https://linkedin.com/in/jhondoe" target="_blank"&gt;LinkedIn&lt;/a&gt;
-      <!-- Include other social media links here -->
-  &lt;/p&gt;
-  </code>
-  </pre>
+  &lt;!-- About Me --&gt;
+  &lt;div id="about-me"&gt;
+      &lt;h1&gt;About Me&lt;/h1&gt;
+      &lt;div id="intro"&gt;
+          &lt;h2&gt;Hi there! I'm Jhon Doe&lt;/h2&gt;
+          &lt;p&gt;A passionate self-taught web developer crafting digital dreams into reality!&lt;/p&gt;
+      &lt;/div&gt;
+      
+      &lt;div id="details"&gt;
+          &lt;h2&gt;Details&lt;/h2&gt;
+          &lt;ul&gt;
+              &lt;li&gt;🌱 Currently diving deep into the realm of Modern Web Development Technologies.&lt;/li&gt;
+              &lt;li&gt;💼 Working on exciting projects to push the boundaries of what's possible on the web.&lt;/li&gt;
+              &lt;li&gt;💬 Let's connect and chat about all things tech and innovation!&lt;/li&gt;
+              &lt;li&gt;📧 You can reach me at &lt;a href="mailto:doaah@gmail.com"&gt;doaah@gmail.com&lt;/a&gt;.&lt;/li&gt;
+          &lt;/ul&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/code&gt;
+  &lt;/pre&gt;
   
