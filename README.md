@@ -3,17 +3,17 @@
 
 const displayAboutMe = () => {
   const aboutMe = {
-    name: "John Doe / bah-do-dev",
+    name: "Masum Billah / billah-dot-dev",
     introduction: "I'm a self-taught web developer dedicated to making online dreams a reality.",
     language: "JavaScript",
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
     tools: ["Git", "Figma", "Inkscape", "Material UI", "and More..."],
     interests: ["Coding", "Reading", "Travelling"],
-    projectsAreAvailableAt: "http://bikh.dev",
+    projectsAreAvailableAt: "http://billah.dev",
     location: "Manila, Philippines",
     contact: {
       email: "emasumbillah@gmail.com",
-      twitter: "@billh-dok-dev",
+      twitter: "/billh-dot-dev",
       github: "/bah-do-dev",
     }
   };
