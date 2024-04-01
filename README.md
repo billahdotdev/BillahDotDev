@@ -21,3 +21,5 @@ const displayAboutMe = () => {
 };
 
 displayAboutMe();
+
+(continued...) 
