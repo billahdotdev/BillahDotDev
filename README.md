@@ -22,4 +22,3 @@ const displayAboutMe = () => {
 
 displayAboutMe();
 
-(continued...) 
