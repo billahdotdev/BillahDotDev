@@ -22,5 +22,5 @@ const displayAboutMe = () => {
 
 displayAboutMe();
 
-<button>More About Me</button>
+More About Me
 
