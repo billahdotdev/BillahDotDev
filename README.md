@@ -14,7 +14,7 @@ const displayAboutMe = () => {
     contact: {
       email: "emasumbillah@gmail.com",
       twitter: "/billh-dot-dev",
-      github: "/billah-dot-dev",
+      GitHub: "/billah-dot-dev",
     }
   };
   console.log(aboutMe);
@@ -23,6 +23,5 @@ const displayAboutMe = () => {
 displayAboutMe();
 
 
-                              More About Me:
 
 
