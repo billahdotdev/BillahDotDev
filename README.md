@@ -3,7 +3,7 @@
 
 const displayAboutMe = () => {
   const aboutMe = {
-    name: "Masum Billah/billah-dot-dev",
+    name: "Masum Billah",
     introduction: "I'm a self-taught web developer dedicated to making online dreams a reality.",
     language: "JavaScript",
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
