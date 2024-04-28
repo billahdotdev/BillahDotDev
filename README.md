@@ -9,7 +9,7 @@ const displayAboutMe = () => {
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
     tools: ["Git", "Figma", "Inkscape", "Material UI", "and More..."],
     interests: ["Coding", "Reading", "Travelling"],
-    projectsAreAvailableAt: "http://billah.dev",
+    personalWebSite: "http://billah.dev",
     location: "Manila, Philippines",
     contact: {
       email: "emasumbillah@gmail.com",
