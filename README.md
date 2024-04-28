@@ -8,7 +8,7 @@ const displayAboutMe = () => {
     language: "JavaScript",
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
     tools: ["Git", "Figma", "Inkscape", "Material UI", "and More..."],
-    interests: ["Coding", "Reading", "Travelling"],
+    interests: ["WebTechnologies", "Reading", "Travelling"],
     personalWebSite: "http://billah.dev",
     location: "Manila, Philippines",
     contact: {
