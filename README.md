@@ -13,7 +13,7 @@ const displayAboutMe = () => {
     location: "Manila, Philippines",
     contact: {
       email: "emasumbillah@gmail.com",
-      twitter: "/billh-dot-dev",
+      twitter: "/eMasumBillah",
       GitHub: "/billahDotDev",
     }
   };
