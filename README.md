@@ -23,4 +23,5 @@ const displayAboutMe = () => {
 displayAboutMe();
 
 
-
+```html
+<p style="color: red;">This is a paragraph with red text.</p>
