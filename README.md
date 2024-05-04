@@ -23,7 +23,7 @@ const displayAboutMe = () => {
 displayAboutMe();
 
 const imageHTML = `
-<img src="https://plus.unsplash.com/premium_photo-1675700415013-48ade09d842a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8">
+<img src="https://images.unsplash.com/photo-1714745455359-9a7723c0be14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8fA%3D%3D" alt="Alt text">
 `;
 
 console.log(imageHTML);
