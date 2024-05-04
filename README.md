@@ -22,4 +22,4 @@ const displayAboutMe = () => {
 
 displayAboutMe();
 
-<img src="<img src="URL_of_your_gif" alt="Alt text">" alt="Masum Billah">
+<img https://avatars.githubusercontent.com/u/112099343?s=400&u=b76d4e9aad416dad8736d984508d9c1df6dea4d1&v=4>" alt="Masum Billah">
