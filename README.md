@@ -23,5 +23,6 @@ const displayAboutMe = () => {
 displayAboutMe();
 
 
+![Animated Text](https://example.com/animated_text.gif)
 
 
