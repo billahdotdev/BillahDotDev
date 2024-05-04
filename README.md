@@ -22,6 +22,20 @@ const displayAboutMe = () => {
 
 displayAboutMe();
 
+<div style="position: relative; overflow: hidden; white-space: nowrap;">
+  <span id="moving-text" style="position: absolute; animation: moveText 5s linear infinite;">Your moving text here</span>
+</div>
+
+<style>
+  @keyframes moveText {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
 
 
 
