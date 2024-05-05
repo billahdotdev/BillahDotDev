@@ -58,6 +58,7 @@ The slots for May and June are fully booked. Availability for July will be annou
 Alternatively, you can fill out the Google Form ![form](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) to get notified.
 </ details>
 ```
+</details>
 
 <details> 
 <summary>🛒 Shop (Cool Programming T-Shirts) NOT AVAILABLE YET!</summary>
