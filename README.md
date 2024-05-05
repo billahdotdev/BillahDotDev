@@ -23,19 +23,7 @@ const displayAboutMe = () => {
 displayAboutMe();
 
 
-// Your JavaScript code here
-
-// Define the image as a Base64-encoded data URL
-const imageDataUrl = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC';
-
-// Create an <img> element and set its src attribute to the data URL
-const img = document.createElement('img');
-img.src = imageDataUrl;
-img.alt = 'Alt text'; // Provide a descriptive alt text
-
-// Append the <img> element to the document body
-document.body.appendChild(img);
-
+![photoCopy](https://images.unsplash.com/photo-1714745455359-9a7723c0be14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8fA%3D%3D)
 
 
 
