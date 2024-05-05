@@ -65,4 +65,29 @@ add products here
 ```
 </details>
 
+<details>
+  <summary>Shop: Online Product Showcase</summary>
+
+  <h2>Welcome to our Online Store!</h2>
+  
+  <p>Check out our latest products:</p>
+  
+  <h3>T-shirts</h3>
+  <ul>
+    <li>Product 1: Description and image</li>
+    <li>Product 2: Description and image</li>
+    <!-- Add more products as needed -->
+  </ul>
+  
+  <h3>Hoodies</h3>
+  <ul>
+    <li>Product 1: Description and image</li>
+    <li>Product 2: Description and image</li>
+    <!-- Add more products as needed -->
+  </ul>
+  
+  <p>Visit our website for more details and to make a purchase!</p>
+</details>
+
+
 
