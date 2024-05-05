@@ -60,29 +60,43 @@ The slots for May and June are fully booked. Availability for July will be annou
 
 
 
-<details>
-  <summary>Shop (Programmer T-Shirts)</summary>
+# 🛍️ Welcome to Awesome Online Shop! 🎉
 
-  <h2>Welcome to our Online Shop!</h2>
-  
-  <h3>Programmer T-Shirts</h3>
-  
-  <h4>Product 1</h4>
-  <p>Description: A stylish t-shirt for programmers. <br> Price: $19.99 <br> [![Product 1](link_to_image)](link_to_product_page)</p>
-  
-  <h4>Product 2</h4>
-  <p>Description: Another cool t-shirt for coding enthusiasts. <br> Price: $24.99 <br> [![Product 2](link_to_image)](link_to_product_page)</p>
-  
-  <h4>Product 3</h4>
-  <p>Description: Yet another awesome programmer t-shirt. <br> Price: $21.99 <br> [![Product 3](link_to_image)](link_to_product_page)</p>
-  
-  <h4>Product 4</h4>
-  <p>Description: A classic design for programmers. <br> Price: $18.99 <br> [![Product 4](link_to_image)](link_to_product_page)</p>
-  
-  <!-- Add more products as needed -->
-  
-  <p>Visit our website for more details and to make a purchase!</p>
-</details>
+## Discover Our Fantastic Products 🚀
 
+### 1. Super Widget
+![Super Widget](images/super_widget.jpg)
 
+- **Description:** The Super Widget is the ultimate tool for widget enthusiasts. It's sleek, durable, and packed with features.
+- **Price:** $19.99
+
+### 2. Mega Gadget
+![Mega Gadget](images/mega_gadget.jpg)
+
+- **Description:** The Mega Gadget is a must-have for tech lovers. With its cutting-edge design and functionality, it's sure to impress.
+- **Price:** $29.99
+
+### 3. Fantastic Gizmo
+![Fantastic Gizmo](images/fantastic_gizmo.jpg)
+
+- **Description:** The Fantastic Gizmo is perfect for DIY enthusiasts. Its versatility and ease of use make it a top choice for any project.
+- **Price:** $14.99
+
+## 🛒 How to Order
+
+Ready to get your hands on these awesome products? Here's how:
+
+1. 🖱️ Browse our selection of products above.
+2. 🛒 Choose the items you'd like to purchase.
+3. ✉️ Send an email to orders@awesomeonlineshop.com with the following information:
+   - Product name(s)
+   - Quantity
+   - Shipping address
+4. 💸 We'll respond to confirm your order and provide payment instructions.
+
+## 📞 Contact Us
+
+Have any questions or need assistance? Don't hesitate to reach out to us at contact@awesomeonlineshop.com. We're always here to help!
+
+Happy shopping! 🎁
 
