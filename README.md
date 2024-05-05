@@ -31,7 +31,7 @@ displayAboutMe();
 
 ```html
 My Story:
-I'm passionate about Javascript and web technologies. Before the pandemic, I was just a struggling entrepreneur in
+I'm passionate about Javascript and web Technologies. Before the pandemic, I was just a struggling entrepreneur in
 the clothing industry. 'Cotton Logic' is a company where I hustled as a rainmaker. My business had its ups and
 downs, which was stressful, but I learned something new daily. During the pandemic, I decided to bring my passion
 into the business. Nowadays, two roles in my real-life games are Web developer and Rainmaker. 
@@ -52,13 +52,13 @@ of modern web mastery at the University of Helsinki.
   
 ```html
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career,
-Web development, Graphic design, etc.
+Web development, Graphic design, Business etc.
 
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account.
-Alternatively, you can fill out the Google Form (https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) to get notified.
+Alternatively, you can fill out the [Google Form](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) to get notified.
 
 ```
-</details>
+</ details>
 
 
 <details> 
