@@ -50,8 +50,9 @@ of modern web mastery at the University of Helsinki.
 
 
 ```html
-logy (BUET) certified full-stack web developer on a journey
-of modern web mastery at the University of Helsinki.
+There are times when you need someone to listen or give some advice.
+
+Book a slot to chat - anything from personal to career, web development, Graphic design, etc.
 ```
 </details>
 
