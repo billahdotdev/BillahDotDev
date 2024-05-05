@@ -47,22 +47,13 @@ of modern web mastery at the University of Helsinki.
 
 
 <details> 
-<summary>More About Me &#43;</summary>
+<summary>Let's Work Together</summary>
+There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, web development, Graphic design, etc.
 
+The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. Alternatively, you can fill out the form [here](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) to get notified.
 
 ```html
-My Story:
-I'm passionate about Javascript and web technologies. Before the pandemic, I was just a struggling entrepreneur in
-the clothing industry. 'Cotton Logic' is a company where I hustled as a rainmaker. My business had its ups and
-downs, which was stressful, but I learned something new daily. During the pandemic, I decided to bring my passion
-into the business. Nowadays, two roles in my real-life games are Web developer and Rainmaker. 
 
-I can Speak:
-English, Bangla (Native), Taglish, Hindi, and of course Javascript!
-
-Certification:
-I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer on a journey
-of modern web mastery at the University of Helsinki.
 ```
 </details>
 
@@ -72,11 +63,9 @@ of modern web mastery at the University of Helsinki.
 
 
 <details>
-<summary>Let's Work Together</summary>
+<summary></summary>
 
-There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, web development, Graphic design, etc.
 
-The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. Alternatively, you can fill out the form [here](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) to get notified.
 
 </details>
 
