@@ -61,21 +61,17 @@ The slots for May and June are fully booked. Availability for July will be annou
 
 <details> 
 <summary>Shop</summary>
-# 🛍️ Welcome to Awesome Online Shop! 🎉
 
-## Discover Our Fantastic Products 🚀
 
-### 1. Super Widget
 ![Super Widget](images/super_widget.jpg)
 
-- **Description:** The Super Widget is the ultimate tool for widget enthusiasts. It's sleek, durable, and packed with features.
-- **Price:** $19.99
+Javascript Men's T-shirt
+Price: $5.99
 
-### 2. Mega Gadget
 ![Mega Gadget](images/mega_gadget.jpg)
 
-- **Description:** The Mega Gadget is a must-have for tech lovers. With its cutting-edge design and functionality, it's sure to impress.
-- **Price:** $29.99
+python Men's T-shirt
+Price: $5.99
 
 ### 3. Fantastic Gizmo
 ![Fantastic Gizmo](images/fantastic_gizmo.jpg)
