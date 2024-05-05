@@ -46,7 +46,7 @@ of modern web mastery at the University of Helsinki.
 </details>
 
 <details> 
-<summary>Chat With Me</summary>
+<summary>Let's Work Together</summary>
 
 
 ```html
@@ -56,7 +56,7 @@ of modern web mastery at the University of Helsinki.
 </details>
 
 <details> 
-<summary>Work Together</summary>
+<summary>Chat With Me</summary>
 
 
 ```html
