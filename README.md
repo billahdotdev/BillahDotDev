@@ -60,8 +60,19 @@ of modern web mastery at the University of Helsinki.
   
 
 ```html
-logy (BUET) certified full-stack web developer on a journey
-of modern web mastery at the University of Helsinki.
+## My Awesome Shop
+  
+  Welcome to my shop! We offer a variety of products to meet your needs.
+  
+  ### Location
+  
+  Our shop is located at 123 Main Street, City, Country.
+  
+  ### Products
+  
+  - Product 1: Description and price
+  - Product 2: Description and price
+  - Product 3: Description and price
 ```
 </details>
 
