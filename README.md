@@ -29,7 +29,7 @@ displayAboutMe();
 
 
 <details>
-<summary>Click to expand</summary>
+<summary>More About ME</summary>
 
 ```html
 <!DOCTYPE html>
