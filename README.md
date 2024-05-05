@@ -56,9 +56,9 @@ There are times when you need someone to listen or give some advice. Book a slot
 Web development, Graphic design, etc.
 
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account.
-Alternatively, you can fill out the [Google Form](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform).
+Alternatively, you can fill out the Google Form (https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform).
 to get notified.
-<a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform">Google Form</a> to get notified.</p>
+
 ```
 </details>
 
