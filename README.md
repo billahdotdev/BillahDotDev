@@ -60,7 +60,7 @@ Alternatively, you can fill out the [Google Form](https://docs.google.com/forms/
 <p>Fill out the <a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform">Google Form</a> to get notified.</p>
 
 ```
-</ details>
+</details>
 
 
 <details> 
