@@ -61,30 +61,7 @@ The slots for May and June are fully booked. Availability for July will be annou
   
 
 ```html
-## My Awesome Shop
-  
-  Welcome to my shop! We offer a variety of products to meet your needs.
-  
-  ### Location
-  
-  Our shop is located at 123 Main Street, City, Country.
-  
-  ### Products
-  
-  #### Product 1
-  ![Product 1](link_to_product1_image)
-  Description: Description of product 1.
-  Price: $X.XX
-  
-  #### Product 2
-  ![Product 2](link_to_product2_image)
-  Description: Description of product 2.
-  Price: $X.XX
-  
-  #### Product 3
-  ![Product 3](link_to_product3_image)
-  Description: Description of product 3.
-  Price: $X.XX
+add products here
 ```
 </details>
 
