@@ -26,7 +26,7 @@ displayAboutMe();
 
 
 <details> 
-<summary>More About ME</summary>
+<summary>M</summary>
 
 
 ```html
