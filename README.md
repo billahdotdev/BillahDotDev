@@ -83,9 +83,7 @@ Price: $5.99
 
 Ready to get your hands on these awesome products? Here's how:
 
-1. 🖱️ Browse our selection of products above.
-2. 🛒 Choose the items you'd like to purchase.
-3. ✉️ Send Whatsapp/ telegram/ Viber message with the following information:
+ Send WhatsApp/ telegram/ Viber message with the following information:
    - Product name and Code(s) or Screen short(s)
    - Quantity
    - Shipping address
