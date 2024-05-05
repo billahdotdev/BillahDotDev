@@ -58,8 +58,6 @@ Alternatively, you can fill out the form below to receive notifications.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvzgZ_Izu7OMHzQDjLN0ApOaa-9SDZupZqRJh6MM0XeSvCpg/viewform?embedded=true" width="640" height="1839" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-
-
 ```
 </details>
 
