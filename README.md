@@ -70,9 +70,20 @@ of modern web mastery at the University of Helsinki.
   
   ### Products
   
-  - Product 1: Description and price
-  - Product 2: Description and price
-  - Product 3: Description and price
+  #### Product 1
+  ![Product 1](link_to_product1_image)
+  Description: Description of product 1.
+  Price: $X.XX
+  
+  #### Product 2
+  ![Product 2](link_to_product2_image)
+  Description: Description of product 2.
+  Price: $X.XX
+  
+  #### Product 3
+  ![Product 3](link_to_product3_image)
+  Description: Description of product 3.
+  Price: $X.XX
 ```
 </details>
 
