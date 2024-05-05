@@ -60,21 +60,11 @@ The slots for May and June are fully booked. Availability for July will be annou
 
 
 
-
-
-
-<details>
-<summary></summary>
-
-
-
-</details>
-
-
 <details>
   <summary>Shop (Programmer T-Shirts)</summary>
 
-```html
+  
+  ```html
 
   <h2>Welcome to our Online Store!</h2>
   
@@ -96,30 +86,6 @@ The slots for May and June are fully booked. Availability for July will be annou
   
   <p>Visit our website (https://google.com) for more details and to make a purchase!</p>
 ```
-</details>
-
-<details>
-  <summary>Shop (Programmer T-Shirts)</summary>
-
-  <h2>Welcome to our Online Store!</h2>
-  
-  <p>Check out our latest products:</p>
-  
-  <h3>T-shirts</h3>
-  <ul>
-    <li>Product 1: Description <br> Price: $XX.XX <br> ![Product 1](link_to_image)</li>
-    <li>Product 2: Description <br> Price: $XX.XX <br> ![Product 2](link_to_image)</li>
-    <!-- Add more products as needed -->
-  </ul>
-  
-  <h3>Hoodies</h3>
-  <ul>
-    <li>Product 1: Description <br> Price: $XX.XX <br> ![Product 1](link_to_image)</li>
-    <li>Product 2: Description <br> Price: $XX.XX <br> ![Product 2](link_to_image)</li>
-    <!-- Add more products as needed -->
-  </ul>
-  
-  <p>Visit our website (https://google.com) for more details and to make a purchase!</p>
 </details>
 
 
