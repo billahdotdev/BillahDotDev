@@ -75,15 +75,15 @@ Alternatively, you can fill out the Google Form (https://docs.google.com/forms/d
 Javascript Men's T-shirt 308
 Price: $5.99
 
-![Mega Gadget](images/mega_gadget.jpg)
+![Python Men's T-shirt](https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
 
 Python Men's T-shirt 400
 Price: $5.99
 
 
-![Fantastic Gizmo](images/fantastic_gizmo.jpg)
+![Java M'ens T-Shirt](https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
 
-Python Men's T-shirt 500
+Java Men's T-shirt 500
 Price: $5.99
 
 🛒 How to Order
