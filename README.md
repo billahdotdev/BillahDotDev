@@ -29,36 +29,6 @@ displayAboutMe();
 <summary>More About ME</summary>
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Styled README</title>
-  <style>
-    /* Define your styles here */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-    }
-    
-    h1 {
-      color: blue;
-    }
-    
-    p {
-      font-size: 16px;
-      line-height: 1.5;
-    }
-  </style>
-</head>
-<body>
-
-<h1>This is a styled heading</h1>
-
-<p>This is a styled paragraph.</p>
-
-</body>
-</html>
+in 20034 i Was just a strugling hghghg sgsgfdhgsf gggssdfhdhgsh gsfghgshd gdfhssjhshgsdhghg.
 
 
