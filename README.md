@@ -59,7 +59,8 @@ The slots for May and June are fully booked. Availability for July will be annou
 </details>
 
 
-
+<details> 
+<summary>Shop</summary>
 # 🛍️ Welcome to Awesome Online Shop! 🎉
 
 ## Discover Our Fantastic Products 🚀
@@ -99,4 +100,4 @@ Ready to get your hands on these awesome products? Here's how:
 Have any questions or need assistance? Don't hesitate to reach out to us at contact@awesomeonlineshop.com. We're always here to help!
 
 Happy shopping! 🎁
-
+</details>
