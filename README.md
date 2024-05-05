@@ -54,9 +54,9 @@ There are times when you need someone to listen or give some advice.
 Book a slot to chat - anything from personal to career, web development, Graphic design, etc.
 
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account.
-Alternatively, you can fill out the form below to receive notifications.
+Alternatively, to receive notifications, you can fill out the [form here](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvzgZ_Izu7OMHzQDjLN0ApOaa-9SDZupZqRJh6MM0XeSvCpg/viewform?embedded=true" width="640" height="1839" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ```
 </details>
