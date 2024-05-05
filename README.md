@@ -63,29 +63,25 @@ The slots for May and June are fully booked. Availability for July will be annou
 <details>
   <summary>Shop (Programmer T-Shirts)</summary>
 
+  <h2>Welcome to our Online Shop!</h2>
   
-  ```html
-
-  <h2>Welcome to our Online Store!</h2>
+  <h3>Programmer T-Shirts</h3>
   
-  <p>Check out our latest products:</p>
+  <h4>Product 1</h4>
+  <p>Description: A stylish t-shirt for programmers. <br> Price: $19.99 <br> [![Product 1](link_to_image)](link_to_product_page)</p>
   
-  <h3>T-shirts</h3>
-  <ul>
-    <li>Product 1: Description <br> Price: $XX.XX <br> ![Product 1](link_to_image)</li>
-    <li>Product 2: Description <br> Price: $XX.XX <br> ![Product 2](link_to_image)</li>
-    <!-- Add more products as needed -->
-  </ul>
+  <h4>Product 2</h4>
+  <p>Description: Another cool t-shirt for coding enthusiasts. <br> Price: $24.99 <br> [![Product 2](link_to_image)](link_to_product_page)</p>
   
-  <h3>Hoodies</h3>
-  <ul>
-    <li>Product 1: Description <br> Price: $XX.XX <br> ![Product 1](link_to_image)</li>
-    <li>Product 2: Description <br> Price: $XX.XX <br> ![Product 2](link_to_image)</li>
-    <!-- Add more products as needed -->
-  </ul>
+  <h4>Product 3</h4>
+  <p>Description: Yet another awesome programmer t-shirt. <br> Price: $21.99 <br> [![Product 3](link_to_image)](link_to_product_page)</p>
   
-  <p>Visit our website (https://google.com) for more details and to make a purchase!</p>
-```
+  <h4>Product 4</h4>
+  <p>Description: A classic design for programmers. <br> Price: $18.99 <br> [![Product 4](link_to_image)](link_to_product_page)</p>
+  
+  <!-- Add more products as needed -->
+  
+  <p>Visit our website for more details and to make a purchase!</p>
 </details>
 
 
