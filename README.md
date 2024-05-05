@@ -37,5 +37,6 @@ My business had its ups and downs, which was stressful, but I learned something 
 During the pandemic, I decided to bring my passion into the business. Nowadays, two roles in my
 real-life games are Web developer and Rainmaker. 
 
-
+I can Speak:
+English, Bangla (Native), Taglish, Hinndi and of course Javascript!
 
