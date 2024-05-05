@@ -62,7 +62,7 @@ Alternatively, you can fill out the Google Form (https://docs.google.com/forms/d
 
 
 <details> 
-<summary>🛒 Shop (Cool Programming T-Shirts) NOT AVAILABLE YET!</summary>
+<summary>🛒 Shop (Cool Programming T-Shirts!) NOT AVAILABLE YET</summary>
 (Under Construction)
 
 <br />
@@ -70,7 +70,7 @@ Alternatively, you can fill out the Google Form (https://docs.google.com/forms/d
 <br />
 
 
-![Super Widget](images/super_widget.jpg)
+![JavaScript T-Shirt](https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
 
 Javascript Men's T-shirt 308
 Price: $5.99
