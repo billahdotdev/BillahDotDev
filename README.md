@@ -55,9 +55,10 @@ of modern web mastery at the University of Helsinki.
 ```
 </details>
 
-<details> 
-<summary><i class="fas fa-chevron-down"></i> More Details</summary>
-
+<details>
+  <details>
+  <summary>▼ More Details</summary>
+  
 
 ```html
 logy (BUET) certified full-stack web developer on a journey
