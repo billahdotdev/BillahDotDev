@@ -42,6 +42,7 @@ English, Bangla (Native), Taglish, Hindi, and of course Javascript!
 Certification:
 I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer on a journey
 of modern web mastery at the University of Helsinki.
-```
 </ details> 
+```
+
 
