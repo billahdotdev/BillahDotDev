@@ -32,5 +32,17 @@ displayAboutMe();
 console.log("Hello World");
 ```
 
+```html
+<style>
+  .code {
+    font-size: 16px; /* Adjust the font size as needed */
+  }
+</style>
+
+<div class="code">
+  <p>// Your JavaScript code here</p>
+  <p>// This is JavaScript code with a custom font size</p>
+</div>
+
 
 
