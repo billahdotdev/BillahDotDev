@@ -63,6 +63,8 @@ The slots for May and June are fully booked. Availability for July will be annou
 <summary>Shop  (Programming T-Shirt)</summary>
 
 
+
+
 ![Super Widget](images/super_widget.jpg)
 
 Javascript Men's T-shirt 308
