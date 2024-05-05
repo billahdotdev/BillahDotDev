@@ -29,6 +29,7 @@ displayAboutMe();
 <summary>More About ME</summary>
 
 ```html
-in 20034 i Was just a strugling hghghg sgsgfdhgsf gggssdfhdhgsh gsfghgshd gdfhssjhshgsdhghg.
+I'm passionate about Javascript and web technologies. Before the pandemic, I was just a struggling entrepreneur in the clothing industry. 'Clothes Logic' is a company where I hustled as a rainmaker. My business had its ups and downs, which was stressful, but I learned something new daily. During the pandemic, I decided to bring my passion into the business. Nowadays, TWO roles in my real-life games are Web developer and Rainmaker. 
+
 
 
