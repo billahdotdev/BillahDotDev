@@ -60,7 +60,7 @@ The slots for May and June are fully booked. Availability for July will be annou
 
 
 <details> 
-<summary>Buy a cool programming T-Shirt</summary>
+<summary>Shop (Cool Programming T-Shirts)</summary>
 (Under Construction)....
 
 <br />
