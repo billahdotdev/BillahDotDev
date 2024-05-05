@@ -36,7 +36,7 @@ the clothing industry. 'Cotton Logic' is a company where I hustled as a rainmake
 downs, which was stressful, but I learned something new daily. During the pandemic, I decided to bring my passion
 into the business. Nowadays, two roles in my real-life games are Web developer and Rainmaker. 
 
-I can Speak:
+I Speak:
 English, Bangla (Native), Taglish, Hindi, and of course Javascript!
 
 Certification:
