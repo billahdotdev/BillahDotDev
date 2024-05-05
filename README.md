@@ -51,8 +51,10 @@ of modern web mastery at the University of Helsinki.
 
 ```html
 There are times when you need someone to listen or give some advice.
-
 Book a slot to chat - anything from personal to career, web development, Graphic design, etc.
+
+The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account.
+Alternatively, you can fill out the form below to receive notifications.
 ```
 </details>
 
