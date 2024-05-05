@@ -86,7 +86,7 @@ add products here
     <!-- Add more products as needed -->
   </ul>
   
-  <p>Visit our website for more details and to make a purchase!</p>
+  <p>Visit our [website] (https://google.com) for more details and to make a purchase!</p>
 </details>
 
 
