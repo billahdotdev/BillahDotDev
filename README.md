@@ -45,24 +45,7 @@ of modern web mastery at the University of Helsinki.
 ```
 
 <P>Hello</P>
-<details> 
-<summary>More About ME</summary>
 
-
-```html
-My Story:
-I'm passionate about Javascript and web technologies. Before the pandemic, I was just a struggling entrepreneur in
-the clothing industry. 'Cotton Logic' is a company where I hustled as a rainmaker. My business had its ups and
-downs, which was stressful, but I learned something new daily. During the pandemic, I decided to bring my passion
-into the business. Nowadays, two roles in my real-life games are Web developer and Rainmaker. 
-
-I can Speak:
-English, Bangla (Native), Taglish, Hindi, and of course Javascript!
-
-Certification:
-I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer on a journey
-of modern web mastery at the University of Helsinki.
-```
 
 
 
