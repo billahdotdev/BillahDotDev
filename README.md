@@ -56,7 +56,7 @@ of modern web mastery at the University of Helsinki.
 </details>
 
 <details>
-  <summary>Chat With Me</summary>
+  <summary>Shop</summary>
   
 
 ```html
