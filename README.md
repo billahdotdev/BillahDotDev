@@ -29,6 +29,8 @@ displayAboutMe();
 <summary>More About ME</summary>
 
 ```html
+My Sory:
+
 I'm passionate about Javascript and web technologies. Before the pandemic, I was just a struggling
 entrepreneur in the clothing industry. 'Cotton Logic' is a company where I hustled as a rainmaker.
 My business had its ups and downs, which was stressful, but I learned something new daily.
