@@ -25,9 +25,6 @@ displayAboutMe();
 ```
 
 
-<p>Hello</p>
-
-
 <details>
 <summary>More About ME</summary>
 
