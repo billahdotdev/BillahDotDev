@@ -74,15 +74,15 @@ add products here
   
   <h3>T-shirts</h3>
   <ul>
-    <li>Product 1: Description and image</li>
-    <li>Product 2: Description and image</li>
+    <li>Product 1: Description <br> Price: $XX.XX <br> ![Product 1](link_to_image)</li>
+    <li>Product 2: Description <br> Price: $XX.XX <br> ![Product 2](link_to_image)</li>
     <!-- Add more products as needed -->
   </ul>
   
   <h3>Hoodies</h3>
   <ul>
-    <li>Product 1: Description and image</li>
-    <li>Product 2: Description and image</li>
+    <li>Product 1: Description <br> Price: $XX.XX <br> ![Product 1](link_to_image)</li>
+    <li>Product 2: Description <br> Price: $XX.XX <br> ![Product 2](link_to_image)</li>
     <!-- Add more products as needed -->
   </ul>
   
