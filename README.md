@@ -56,7 +56,7 @@ of modern web mastery at the University of Helsinki.
 </details>
 
 <details> 
-<summary>Chat With Me</summary>
+<summary><i class="fas fa-chevron-down"></i> More Details</summary>
 
 
 ```html
