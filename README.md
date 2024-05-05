@@ -65,35 +65,35 @@ The slots for May and June are fully booked. Availability for July will be annou
 
 ![Super Widget](images/super_widget.jpg)
 
-Javascript Men's T-shirt
+Javascript Men's T-shirt 308
 Price: $5.99
 
 ![Mega Gadget](images/mega_gadget.jpg)
 
-python Men's T-shirt
+Python Men's T-shirt 400
 Price: $5.99
 
-### 3. Fantastic Gizmo
+
 ![Fantastic Gizmo](images/fantastic_gizmo.jpg)
 
-- **Description:** The Fantastic Gizmo is perfect for DIY enthusiasts. Its versatility and ease of use make it a top choice for any project.
-- **Price:** $14.99
+Python Men's T-shirt 500
+Price: $5.99
 
-## 🛒 How to Order
+🛒 How to Order
 
 Ready to get your hands on these awesome products? Here's how:
 
 1. 🖱️ Browse our selection of products above.
 2. 🛒 Choose the items you'd like to purchase.
 3. ✉️ Send an email to orders@awesomeonlineshop.com with the following information:
-   - Product name(s)
+   - Product name and Code(s)
    - Quantity
    - Shipping address
 4. 💸 We'll respond to confirm your order and provide payment instructions.
 
-## 📞 Contact Us
+Or
 
-Have any questions or need assistance? Don't hesitate to reach out to us at contact@awesomeonlineshop.com. We're always here to help!
+Visit Our [shop] (google.com)
 
 Happy shopping! 🎁
 </details>
