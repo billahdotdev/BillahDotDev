@@ -29,10 +29,7 @@ displayAboutMe();
 <summary>More About ME</summary>
 
 ```html
-<span style="font-size: 20px;">My Story:</span>
-<font size="19">T 5.</font>
-
-
+<span>My Story:</span>
 
 I'm passionate about Javascript and web technologies. Before the pandemic, I was just a struggling
 entrepreneur in the clothing industry. 'Cotton Logic' is a company where I hustled as a rainmaker.
