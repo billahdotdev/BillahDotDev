@@ -66,7 +66,7 @@ add products here
 </details>
 
 <details>
-  <summary>Shop: Online Product Showcase</summary>
+  <summary>Shop (Programmer T-Shirts)</summary>
 
   <h2>Welcome to our Online Store!</h2>
   
