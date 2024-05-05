@@ -62,7 +62,7 @@ you can fill out the form [here](https://docs.google.com/forms/d/e/YOUR_FORM_ID/
 
 
 <details> 
-<summary>Shop (Cool Programming T-Shirts) NOT AVAILABLE YET!</summary>
+<summary>🛒 Shop (Cool Programming T-Shirts) NOT AVAILABLE YET!</summary>
 (Under Construction)
 
 <br />
