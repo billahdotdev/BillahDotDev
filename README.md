@@ -32,7 +32,7 @@ displayAboutMe();
 console.log("Hello World");
 ```
 
-```html
+
 <style>
   .code {
     font-size: 16px; /* Adjust the font size as needed */
