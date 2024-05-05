@@ -48,7 +48,7 @@ of modern web mastery at the University of Helsinki.
 
 
 <details> 
-<summary>Let's Work Together</summary>
+<summary>Chat with Me</summary>
   
 ```html
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career,
