@@ -44,8 +44,12 @@ I'm a Bangladesh University of Engineering and Technology (BUET) certified full-
 of modern web mastery at the University of Helsinki.
 ```
 
-<details> 
-<summary>More About ME</summary>
+```javascript
+
+```
+<details>
+  <summary>Work</summary>
+</details>
 
 
 
