@@ -90,7 +90,7 @@ Ready to get your hands on these awesome products? Here's how:
 4. 💸 We'll respond to confirm your order and provide payment instructions.
 
 Or
-visit our online![store](google.com)
+visit our online ![store](google.com)
 
 Happy shopping! 🎁
 </details>
