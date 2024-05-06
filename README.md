@@ -50,12 +50,14 @@ of modern web mastery at the University of Helsinki.
 <details> 
 <summary>Chat with Me</summary>
   
+ ```html 
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career,
 Web development, Graphic design, Business etc.
 
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account.
 Alternatively, you can Fill out the ![Google Form]!(www.google.com) to get notified.
 
+```
 </details>
 
 
