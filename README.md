@@ -57,14 +57,6 @@ Web development, Graphic design, Business etc.
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account.
 Alternatively, you can Fill out the [Google Form](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) to get notified.
 
-
-
-<p>Fill out the <a href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform">Google Form</a> to get notified.</p>
-
-
-&lt;p&gt;Fill out the &lt;a href=&quot;https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform&quot;&gt;Google Form&lt;/a&gt; to get notified.&lt;/p&gt;
-
-
 ```
 </details>
 
