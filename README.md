@@ -80,13 +80,13 @@ Alternatively, you can Fill out the (google form) to get notified.
 Javascript Men's T-shirt (JST)
 Price: $5.99
 
-![Python Men's T-shirt](https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
+![Python Men's T-shirt](https://m.media-amazon.com/images/I/A13usaonutL._CLa%7C2140%2C2000%7C71P8WfrducL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679_.png)
 
 Python Men's T-shirt (PT)
 Price: $5.99
 
 
-![Java M'ens T-Shirt](https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
+![Java M'ens T-Shirt](https://m.media-amazon.com/images/I/A13usaonutL._CLa%7C2140%2C2000%7C71P8WfrducL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679_.png)
 
 Java Men's T-shirt (JT)
 Price: $5.99
