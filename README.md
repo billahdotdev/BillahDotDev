@@ -57,7 +57,7 @@ Web Development, Graphic design, Business, and Mental Health.
 
 The slots for May and June are fully booked.
 Availability for July will be announced in June on my Twitter account.
-Alternatively, you can Fill out the (www.google.com) to get notified.
+Alternatively, you can Fill out the (google form) to get notified.
 
 ```
 </details>
