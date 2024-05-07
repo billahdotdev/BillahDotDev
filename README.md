@@ -37,7 +37,7 @@ something new every day. During the pandemic, I decided to bring my passion into
 'Web Development Service' and Rainmaking for 'Cotton Logic'. 
 
 I Speak:
-English, Bangla (Native), Taglish, Hindi, and of course JavaScript!
+English, Bangla(Native), Taglish, Hindi, and of course JavaScript!
 
 Certification:
 I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer
