@@ -43,7 +43,7 @@ Certification:
 I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer
 on a journey of modern web mastery at the University of Helsinki.
 
-I'm a crown-less king (Father) on a mission to amplify the royal treatment for my princes.
+I'm a crown-less king(Father) on a mission to amplify the royal treatment for my princes.
 ```
 </details>
 
