@@ -77,7 +77,7 @@ out the ![google form](www.google.com) to get notified.
 <br />
 
 
-![JavaScript T-Shirt](https://m.me.png)
+JavaScript T-Shirt ![](https://m.me.png)
 
 Javascript Men's T-shirt (JST)
 Price: $0.00
