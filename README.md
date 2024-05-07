@@ -78,18 +78,18 @@ out the ![google form](www.google.com) to get notified.
 ![JavaScript T-Shirt](https://m.me.png)
 
 Javascript Men's T-shirt (JST)
-Price: $5.99
+Price: $0.00
 
 ![Python Men's T-shirt](https://m.me_.png)
 
 Python Men's T-shirt (PT)
-Price: $5.99
+Price: $0.00
 
 
 ![Java M'ens T-Shirt](https://m.me.png)
 
 Java Men's T-shirt (JT)
-Price: $5.99
+Price: $0.00
 
 🛒 How to Order
 
