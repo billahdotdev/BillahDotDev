@@ -34,7 +34,7 @@ My Story:
 I am passionate about JavaScript and web technologies. Before the pandemic, I was a struggling entrepreneur in the clothing industry.
 'Cotton Logic' is a company where I hustled as a rainmaker. My business had its ups and downs, which were stressful, but I was learning
 something new every day. During the pandemic, I decided to bring my passion into the business. Nowadays, two roles in my real-life game are:
-'Web Development Service' and Rainmaking for 'Ctton Logic'. 
+'Web Development Service' and Rainmaking for 'Cotton Logic'. 
 
 I Speak:
 English, Bangla (Native), Taglish, Hindi, and of course Javascript!
