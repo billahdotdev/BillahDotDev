@@ -58,18 +58,7 @@ Graphic design, Business, and Mental Health.
 
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. Alternatively, you can Fill
 out the ![google form](www.google.com) to get notified.
-<a href="https://www.google.com">
-<details> 
-<summary>Chat with Me</summary>
-  
- &#96;&#96;&#96;html 
-There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, Web Development,
-Graphic design, Business, and Mental Health.
 
-The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. Alternatively, you can Fill
-out the <a href="https://www.google.com">Google form</a> to get notified.
-&#96;&#96;&#96;
-</details>
 
 ```
 </details>
