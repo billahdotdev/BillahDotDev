@@ -62,7 +62,8 @@ out the (google form) to get notified.
 
 
 <details> 
-<summary>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet</summary>
+<summary>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!S
+</summary>
 (Not yet ready! I'll upload products soon...)
 
 <br />
