@@ -36,7 +36,7 @@ I am passionate about JavaScript and web technologies. Before the pandemic, I wa
 something new every day. During the pandemic, I decided to bring my passion into the business. Nowadays, two roles in my real-life game are:
 'Web Development Service' and Rainmaking for 'Cotton Logic'. 
 
-I Speak:
+👩‍💻 I Speak:
 English, Bangla(Native), Taglish, Hindi, and of course JavaScript!
 
 🎓 Certification:
