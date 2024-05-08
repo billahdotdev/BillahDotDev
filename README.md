@@ -62,9 +62,9 @@ out the ![google form](www.google.com) to get notified.
 
 
 <details> 
-<summary>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!S
+<summary>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!
 </summary>
-(Not yet ready! I'll upload products soon...)
+(Not yet ready! I'll upload the products soon...)
 
 <br />
 <br />
@@ -86,7 +86,7 @@ Python Men's T-shirt (PT)
 Price: $0.00
 
 
-![Java M'ens T-Shirt](https://m.me.png)
+![Java Men's T-Shirt](https://m.me.png)
 
 Java Men's T-shirt (JT)
 Price: $0.00
