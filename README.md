@@ -30,7 +30,7 @@ displayAboutMe();
 
 
 ```html
-☺ My Story:
+&#9786; My Story:
 I am passionate about JavaScript and web technologies. Before the pandemic, I was a struggling entrepreneur in the clothing industry.
 'Cotton Logic' is a company where I hustled as a rainmaker. My business had its ups and downs, which were stressful, but I was learning
 something new every day. During the pandemic, I decided to bring my passion into the business. Nowadays, two roles in my real-life game are:
@@ -62,7 +62,7 @@ out the ![google form](www.google.com) to get notified.
 
 
 <details> 
-<summary>🛒 Shop (Cool! Programming T-Shirts &#128085;) NOT Ready Yet!
+<summary>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!
 </summary>
 (Not yet ready! I'll upload the products soon...)
 
