@@ -1,4 +1,4 @@
-![image](https://github.com/BillahDotDev/BillahDotDev/assets/112099343/e4522adf-6ce1-436f-bc69-e9c414de435a)
+
 ```javascript
 // Welcome to my world!
 
