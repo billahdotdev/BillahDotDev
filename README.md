@@ -56,7 +56,7 @@ There are times when you need someone to listen or give some advice. Book a slot
 Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
 
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. You can fill out the Google
-Form &lt;a href="https://www.google.com"&gt;Google Form&lt;/a&gt; for the programming T-shirt business to get a quick response.
+Form for the programming T-shirt business to get a quick response.
 
 ```
 </details>
