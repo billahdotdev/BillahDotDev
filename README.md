@@ -66,7 +66,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 
-# Welcome to Cot Log Online Store
+# Welcome to Cotton Logic 
 
 <br>
 <br>
