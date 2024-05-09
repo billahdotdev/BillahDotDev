@@ -88,14 +88,14 @@ Availability for July will be announced in June on my Twitter account. You can f
       Price: $0.00
     </td>
     <td align="center">
-      <img src="" width="200px">
+      <img src="https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
       <br>
       <strong>Java Men's T-shirt (JT)</strong>
       <br>
       Price: $0.00
     </td>
     <td align="center">
-      <img src="" width="200px">
+      <img src="https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
       <br>
       <strong>Another T-shirt (AT)</strong>
       <br>
