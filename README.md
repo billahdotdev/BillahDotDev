@@ -73,13 +73,11 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1613852348851-df1739db8201?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
+    <td align="center" valign="top">
+      <img src="<td align="center" valign="top">
+      <img src="https://m.me_.png" width="200px">
+      <br>" width="200px">
       <br>
-      <strong>JavaScript Men's T-shirt (JST)</strong>
-      <br>
-      Price: $0.00
-    </td>
     <td align="center" valign="top">
       <img src="https://images.unsplash.com/photo-1613852348851-df1739db8201?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
       <br>
