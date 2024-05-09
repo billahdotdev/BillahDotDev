@@ -27,8 +27,7 @@ displayAboutMe();
 
 <details> 
 <summary>More About Me &#43;</summary>
-
-
+  
 ```html
 🙂 My Story:
 I am passionate about JavaScript and web technologies. Before the pandemic, I was a struggling entrepreneur in the clothing industry.
