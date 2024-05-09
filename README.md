@@ -145,6 +145,13 @@ Availability for July will be announced in June on my Twitter account. You can f
       <br>
       Price: $0.00
     </td>
+    <td align="center">
+      <img src="https://example.com/image10.png" width="200px">
+      <br>
+      <strong>one (1)</strong>
+      <br>
+      Price: $0.00
+    </td>
   </tr>
 </table>
 
