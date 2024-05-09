@@ -57,7 +57,7 @@ Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
 
 The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. You can fill out the Google
 Form for the programming T-shirt business to get a quick response.
-
+<!-- [Google Form](https://www.google.com) -->
 ```
 </details>
 
