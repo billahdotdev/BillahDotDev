@@ -67,13 +67,13 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br />
 <br />
 <br />
-# Wellcome to Cotton Logic Online Store
+# Wellcome to Cot Log Online Store
 <br />
 <br />
 <br />
 
 
-![JavaScript T-Shirt](https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
+![JavaScript T-Shirt](https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
 
 Javascript Men's T-shirt (JST)
 Price: $0.00
@@ -105,6 +105,65 @@ visit our online![store](google.com)
 
 
 
+
+Happy shopping! 🎁
+</details>
+-----
+
+<details>
+<summary><strong>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!</strong></summary>
+
+(Not yet ready! I'll upload the products soon...)
+
+<br>
+<br>
+
+# Welcome to Cot Log Online Store
+
+<br>
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+      <br>
+      <strong>JavaScript Men's T-shirt (JST)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://m.me_.png" width="200px">
+      <br>
+      <strong>Python Men's T-shirt (PT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://m.me.png" width="200px">
+      <br>
+      <strong>Java Men's T-shirt (JT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+### 🛒 How to Order
+
+Ready to get your hands on these awesome products? Here's how:
+
+Send a WhatsApp/telegram/Viber message with the following information:
+- Product name and Code(s) or Screenshot(s)
+- Quantity
+- Shipping address
+
+💸 We'll respond to confirm your order and provide payment instructions.
+
+Or visit our online [store](google.com).
 
 Happy shopping! 🎁
 </details>
