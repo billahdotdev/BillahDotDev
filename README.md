@@ -74,7 +74,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
       <br>
       <strong>JavaScript Men's T-shirt (JST)</strong>
       <br>
@@ -140,7 +140,7 @@ Availability for July will be announced in June on my Twitter account. You can f
       <br><br><br>
     </td>
     <td align="center" valign="top">
-      <img src="https://example.com/image9.png" width="200px">
+      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
       <br>
       <strong>Funky T-shirt (FT)</strong>
       <br>
@@ -190,7 +190,7 @@ Availability for July will be announced in June on my Twitter account. You can f
       <br><br><br>
     </td>
     <td align="center" valign="top">
-      <img src="https://example.com/image15.png" width="200px">
+      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
       <br>
       <strong>Smart T-shirt (ST)</strong>
       <br>
@@ -216,7 +216,7 @@ Availability for July will be announced in June on my Twitter account. You can f
       <br><br><br>
     </td>
     <td align="center" valign="top">
-      <img src="https://example.com/image18.png" width="200px">
+      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
       <br>
       <strong>Amazing T-shirt (AT)</strong>
       <br>
