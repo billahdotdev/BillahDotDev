@@ -98,7 +98,7 @@ Ready to get your hands on these awesome products? Here's how:
    - Product name and Code(s) or Screen short(s)
    - Quantity
    - Shipping address
-4. 💸 We'll respond to confirm your order and provide payment instructions.
+💸 We'll respond to confirm your order and provide payment instructions.
 
 Or
 visit our online![store](google.com)
