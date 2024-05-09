@@ -55,7 +55,8 @@ on a journey of modern web mastery at the University of Helsinki.
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, Web Development,
 Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
 
-The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. You can just fill out the ![Google Form] for the programming T-shirt business to get a quick response.
+The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. You can fill out the Google
+Form for the programming T-shirt business to get a quick response.
 
 ```
 </details>
