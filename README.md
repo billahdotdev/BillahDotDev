@@ -74,7 +74,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <table style="width: 100%;">
   <tr>
     <td align="center" valign="top" style="width: 20%;">
-      <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" style="max-width: 100%;" width="auto">
+      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" style="max-width: 100%;" width="auto">
       <br>
       <strong>JavaScript Men's T-shirt (JST)</strong>
       <br>
