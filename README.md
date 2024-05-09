@@ -58,58 +58,6 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 </details>
 
-
-<details> 
-<summary>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!
-</summary>
-(Not yet ready! I'll upload the products soon...)
-
-<br />
-<br />
-<br />
-# Wellcome to Cot Log Online Store
-<br />
-<br />
-<br />
-
-
-![JavaScript T-Shirt](https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww)
-
-Javascript Men's T-shirt (JST)
-Price: $0.00
-
-![Python Men's T-shirt](https://m.me_.png)
-
-Python Men's T-shirt (PT)
-Price: $0.00
-
-
-![Java Men's T-Shirt](https://m.me.png)
-
-Java Men's T-shirt (JT)
-Price: $0.00
-
-🛒 How to Order
-
-Ready to get your hands on these awesome products? Here's how:
-
- Send a WhatsApp/ telegram/ Viber message with the following information:
-   - Product name and Code(s) or Screen short(s)
-   - Quantity
-   - Shipping address
-💸 We'll respond to confirm your order and provide payment instructions.
-
-Or
-visit our online![store](google.com)
-
-
-
-
-
-Happy shopping! 🎁
-</details>
------
-
 <details>
 <summary><strong>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!</strong></summary>
 
@@ -146,6 +94,57 @@ Happy shopping! 🎁
       <br>
       Price: $0.00
     </td>
+    <td align="center">
+      <img src="https://example.com/image4.png" width="200px">
+      <br>
+      <strong>Another T-shirt (AT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image5.png" width="200px">
+      <br>
+      <strong>Yet Another T-shirt (YAT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://example.com/image6.png" width="200px">
+      <br>
+      <strong>And Another T-shirt (AAT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image7.png" width="200px">
+      <br>
+      <strong>Cool T-shirt (CT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image8.png" width="200px">
+      <br>
+      <strong>Awesome T-shirt (AT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image9.png" width="200px">
+      <br>
+      <strong>Funky T-shirt (FT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image10.png" width="200px">
+      <br>
+      <strong>Geeky T-shirt (GT)</strong>
+      <br>
+      Price: $0.00
+    </td>
   </tr>
 </table>
 
@@ -167,7 +166,5 @@ Or visit our online [store](google.com).
 
 Happy shopping! 🎁
 </details>
-
-
 
 
