@@ -61,6 +61,19 @@ Form for the programming T-shirt business to get a quick response. (link)
 ```</pre>
 </details>
 
+<details> 
+<summary>Chat with Me</summary>
+  
+<pre>```html
+There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, Web Development,
+Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
+
+The slots for May and June are fully booked. Availability for July will be announced in June on my Twitter account. You can fill out the <a href="https://www.google.com">Google Form</a> for the programming T-shirt business to get a quick response.
+```</pre>
+
+</details>
+
+
 
 <details> 
 <summary>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!
