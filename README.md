@@ -66,7 +66,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 
-# Welcome to Cotton Logic 
+# Welcome to Cot Log Online Store
 
 <br>
 <br>
@@ -74,148 +74,170 @@ Availability for July will be announced in June on my Twitter account. You can f
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="<td align="center" valign="top">
-      <img src="https://m.me_.png" width="200px">
-      <br>" width="200px">
+      <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
       <br>
+      <strong>JavaScript Men's T-shirt (JST)</strong>
+      <br>
+      Price: $0.00
+      <br><br><br>
+    </td>
     <td align="center" valign="top">
-      <img src="https://images.unsplash.com/photo-1613852348851-df1739db8201?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
+      <img src="https://m.me_.png" width="200px">
       <br>
       <strong>Python Men's T-shirt (PT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
+    <td align="center" valign="top">
+      <img src="https://m.me.png" width="200px">
       <br>
       <strong>Java Men's T-shirt (JT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image4.png" width="200px">
       <br>
       <strong>Another T-shirt (AT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image5.png" width="200px">
       <br>
       <strong>Yet Another T-shirt (YAT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image6.png" width="200px">
       <br>
       <strong>And Another T-shirt (AAT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image7.png" width="200px">
       <br>
       <strong>Cool T-shirt (CT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image8.png" width="200px">
       <br>
       <strong>Awesome T-shirt (AT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image9.png" width="200px">
       <br>
       <strong>Funky T-shirt (FT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image10.png" width="200px">
       <br>
       <strong>Geeky T-shirt (GT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image11.png" width="200px">
       <br>
       <strong>Unique T-shirt (UT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image12.png" width="200px">
       <br>
       <strong>Special T-shirt (ST)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image13.png" width="200px">
       <br>
       <strong>Creative T-shirt (CT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image14.png" width="200px">
       <br>
       <strong>Fun T-shirt (FT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image15.png" width="200px">
       <br>
       <strong>Smart T-shirt (ST)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image16.png" width="200px">
       <br>
       <strong>Clever T-shirt (CT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image17.png" width="200px">
       <br>
       <strong>Brilliant T-shirt (BT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image18.png" width="200px">
       <br>
       <strong>Amazing T-shirt (AT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image19.png" width="200px">
       <br>
       <strong>Excellent T-shirt (ET)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" width="200px">
+    <td align="center" valign="top">
+      <img src="https://example.com/image20.png" width="200px">
       <br>
       <strong>Outstanding T-shirt (OT)</strong>
       <br>
       Price: $0.00
+      <br><br><br>
     </td>
   </tr>
 </table>
@@ -238,4 +260,3 @@ Or visit our online [store](google.com).
 
 Happy shopping! 🎁
 </details>
-
