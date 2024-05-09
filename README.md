@@ -48,11 +48,12 @@ on a journey of modern web mastery at the University of Helsinki.
 <details> 
 <summary>Chat with Me</summary>
 <pre> 
-There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, Web Development,
-Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
-<br />
+There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, 
+Web Development, Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
+
 <br />
 The slots for May and June are fully booked. 
+<br />
 Availability for July will be announced in June on my Twitter account. You can fill out the <a href="https://app.grammarly.com/">Google Form</a> for the programming T-shirt business to get a quick response.
 </pre>
 
