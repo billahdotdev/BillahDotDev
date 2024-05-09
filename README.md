@@ -47,9 +47,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 <details> 
 <summary>Chat with Me</summary>
-  
 <pre> 
-
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, Web Development,
 Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
 
