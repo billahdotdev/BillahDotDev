@@ -53,7 +53,6 @@ Web Development, Graphic design, Digital Marketing, T-Shirt Business, and Mental
 
 <br />
 The slots for May and June are fully booked. 
-<br />
 Availability for July will be announced in June on my Twitter account. You can fill out the <a href="https://app.grammarly.com/">Google Form</a> for the programming T-shirt business to get a quick response.
 </pre>
 
