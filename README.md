@@ -145,17 +145,77 @@ Availability for July will be announced in June on my Twitter account. You can f
       <br>
       Price: $0.00
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://example.com/image10.png" width="200px">
+      <img src="https://example.com/image11.png" width="200px">
       <br>
-      <strong>one (1)</strong>
+      <strong>Unique T-shirt (UT)</strong>
       <br>
       Price: $0.00
     </td>
     <td align="center">
-      <img src="https://example.com/image10.png" width="200px">
+      <img src="https://example.com/image12.png" width="200px">
       <br>
-      <strong>two (1)</strong>
+      <strong>Special T-shirt (ST)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image13.png" width="200px">
+      <br>
+      <strong>Creative T-shirt (CT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image14.png" width="200px">
+      <br>
+      <strong>Fun T-shirt (FT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image15.png" width="200px">
+      <br>
+      <strong>Smart T-shirt (ST)</strong>
+      <br>
+      Price: $0.00
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://example.com/image16.png" width="200px">
+      <br>
+      <strong>Clever T-shirt (CT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image17.png" width="200px">
+      <br>
+      <strong>Brilliant T-shirt (BT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image18.png" width="200px">
+      <br>
+      <strong>Amazing T-shirt (AT)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image19.png" width="200px">
+      <br>
+      <strong>Excellent T-shirt (ET)</strong>
+      <br>
+      Price: $0.00
+    </td>
+    <td align="center">
+      <img src="https://example.com/image20.png" width="200px">
+      <br>
+      <strong>Outstanding T-shirt (OT)</strong>
       <br>
       Price: $0.00
     </td>
@@ -180,5 +240,4 @@ Or visit our online [store](google.com).
 
 Happy shopping! 🎁
 </details>
-
 
