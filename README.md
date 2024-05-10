@@ -70,9 +70,11 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 <pre>
- <h1>
+ <div>
+  <h1>
   Well Come to Cotton Logic Products Catalog
  </h1>
+ </div>
 </pre>
 <div>
     
