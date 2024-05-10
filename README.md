@@ -75,9 +75,9 @@ Availability for July will be announced in June on my Twitter account. You can f
   <div style="width: 200px; margin: 10px;">
     <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
-      <strong>JavaScript Men's T-shirt (JST)</strong>
+      <strong>JavaScript Men's T-shirt jkjd uhdh  huhh  ohuh  lilh oiipo huiihioiu  uhiuhoi ouhh  (JST)</strong>
       <br>
-      Fabric: Cotton
+      Fabric: Cotton ghfkhf  hghhhi i hihh iuh ig uugui uyug ug iyg hhyg  yhiiy guj  ifuu yfvu gguug
       <br>
       Colors: Black, Gray, White
       <br>
@@ -89,7 +89,7 @@ Availability for July will be announced in June on my Twitter account. You can f
   <div style="width: 200px; margin: 10px;">
     <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
-      <strong>Python Men's T-shirt (PT)</strong>
+      <strong>T-shirt (PT)</strong>
       <br>
       Fabric: Polyester
       <br>
@@ -104,14 +104,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Java Men's T-shirt (JT)</strong>
-      <br>
-      Fabric: Cotton Blend
-      <br>
-      Colors: Navy, Maroon, Olive
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
+      
     </div>
   </div>
   <!-- Add more divs for additional products -->
