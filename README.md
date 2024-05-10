@@ -62,7 +62,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 
 <details>
-<summary><strong>Shop(Cool! Programming T-Shirts)</strong></summary>
+<summary><strong>Shop</strong> (Cool! Programming T-Shirts)</summary>
 <br>
 <br>
 <div><strong>(Not yet ready! I'll upload the products soon...)</strong></div>
