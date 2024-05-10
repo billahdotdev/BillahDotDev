@@ -70,13 +70,11 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 
-<div class="center">
- <style>
-  .center {
+<div class="center"; style=".center {
     display: flex;
     justify-content: center;
-  }
-</style>
+  }">
+
   <pre>
     Well Come to Cotton Logic Products Catalog
   </pre>
