@@ -68,7 +68,8 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <br>
 <br>
-<div style="text-align: center;">Welcome to Cotn Logic</div>
+<pre><div style="text-align: center;">Welcome to Cotn Logic</div></pre>
+
 <br>
 <br>
 
