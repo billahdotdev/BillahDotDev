@@ -69,12 +69,10 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <br>
 <br>
-<pre>
-  Well Come to Cotton Logic Products Catalog
-</pre>
+
 <div style="text-align: center;">
   <pre style="display: inline-block;">
-    Well Come to Cotton Logic Products Catalog
+    <h1>Well Come to Cotton Logic Products Catalog</h1>
   </pre>
 </div>
   <br>
