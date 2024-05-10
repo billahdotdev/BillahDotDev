@@ -108,6 +108,19 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <!-- Add more divs for additional products -->
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>JavaScript Men's T-shirt (JST)</strong>
+      <br>
+      Fabric: Cotton
+      <br>
+      Colors: Black, Gray, White
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
 </div>
 
 <br>
