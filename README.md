@@ -64,11 +64,11 @@ Availability for July will be announced in June on my Twitter account. You can f
 <details>
 <summary><strong>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!</strong></summary>
 
-<div><span style="text-align: center">(Not yet ready! I'll upload the products soon...)</span></div>
+<div style="text-align: center;">(Not yet ready! I'll upload the products soon...)</div>
 
 <br>
 <br>
-<div style="text-align: center; font-size: larger;">Welcome to Cotn Logic</div>
+<div style="text-align: center;">Welcome to Cotn Logic</div>
 <br>
 <br>
 
