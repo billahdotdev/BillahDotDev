@@ -73,7 +73,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <div style="width: 100%; display: flex; justify-content: space-around;">
   <div style="width: 200px; margin: 10px;">
-    <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>JavaScript Men's T-shirt (JST)</strong>
       <br>
@@ -87,7 +87,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://m.me_.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1593726891090-b4c6bc09c819?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Python Men's T-shirt (PT)</strong>
       <br>
@@ -101,7 +101,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://m.me.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1502389614483-e475fc34407e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Java Men's T-shirt (JT)</strong>
       <br>
@@ -115,7 +115,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://example.com/image4.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1594032194509-0056023973b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Another T-shirt (AT)</strong>
       <br>
@@ -129,7 +129,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://example.com/image5.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Yet Another T-shirt (YAT)</strong>
       <br>
@@ -143,7 +143,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://example.com/image6.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1618354691438-25bc04584c23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>And Another T-shirt (AAT)</strong>
       <br>
@@ -157,7 +157,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://example.com/image7.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1613852348851-df1739db8201?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Cool T-shirt (CT)</strong>
       <br>
@@ -171,7 +171,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://example.com/image8.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Awesome T-shirt (AT)</strong>
       <br>
@@ -185,7 +185,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://example.com/image9.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Funky T-shirt (FT)</strong>
       <br>
@@ -199,7 +199,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://example.com/image10.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1554568218-0f1715e72254?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dCUyMHNoaXJ0fGVufDB8fDB8fHww" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Geeky T-shirt (GT)</strong>
       <br>
