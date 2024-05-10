@@ -26,7 +26,7 @@ displayAboutMe();
 
 
 <details> 
-<summary>More About Me &#43;</summary>
+<summary><strong>More About Me &#43;</strong></summary>
   
 ```html
 🙂 My Story:
