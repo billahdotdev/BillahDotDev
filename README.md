@@ -73,43 +73,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <div style="width: 100%; display: flex; justify-content: space-around;">
   <div style="width: 200px; margin: 10px;">
-    <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>JavaScript Men's T-shirt jkjd uhdh  huhh  ohuh  lilh oiipo huiihioiu  uhiuhoi ouhh  (JST)</strong>
-      <br>
-      Fabric: Cotton ghfkhf  hghhhi i hihh iuh ig uugui uyug ug iyg hhyg  yhiiy guj  ifuu yfvu gguug
-      <br>
-      Colors: Black, Gray, White
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
-  <div style="width: 200px; margin: 10px;">
-    <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>T-shirt (PT)</strong>
-      <br>
-      Fabric: Polyester
-      <br>
-      Colors: Red, Blue, Green
-      <br>
-      Size: S, M, L, XL
-      <br>
-      Price: $0.00
-    </div>
-  </div>
-  <div style="width: 200px; margin: 10px;">
-    <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
-    <div style="text-align: center;">
-      <strong>Java Men's T-shirt (JT)</strong>
-      
-    </div>
-  </div>
-  <!-- Add more divs for additional products -->
-  <div style="width: 200px; margin: 10px;">
-    <img src="https://images.unsplash.com/photo-1618354691438-25bc04584c23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
+    <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" style="width: 100%;">
     <div style="text-align: center;">
       <strong>JavaScript Men's T-shirt (JST)</strong>
       <br>
@@ -121,6 +85,133 @@ Availability for July will be announced in June on my Twitter account. You can f
       <br>
       Price: $0.00
     </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://m.me_.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Python Men's T-shirt (PT)</strong>
+      <br>
+      Fabric: Polyester
+      <br>
+      Colors: Red, Blue, Green
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://m.me.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Java Men's T-shirt (JT)</strong>
+      <br>
+      Fabric: Cotton Blend
+      <br>
+      Colors: Navy, Maroon, Olive
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://example.com/image4.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Another T-shirt (AT)</strong>
+      <br>
+      Fabric: Cotton
+      <br>
+      Colors: Blue, Green, Yellow
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://example.com/image5.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Yet Another T-shirt (YAT)</strong>
+      <br>
+      Fabric: Polyester
+      <br>
+      Colors: Red, Yellow, Orange
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://example.com/image6.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>And Another T-shirt (AAT)</strong>
+      <br>
+      Fabric: Cotton Blend
+      <br>
+      Colors: Black, White, Gray
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://example.com/image7.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Cool T-shirt (CT)</strong>
+      <br>
+      Fabric: Polyester Blend
+      <br>
+      Colors: Blue, Green, Purple
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://example.com/image8.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Awesome T-shirt (AT)</strong>
+      <br>
+      Fabric: Cotton
+      <br>
+      Colors: Red, White, Blue
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://example.com/image9.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Funky T-shirt (FT)</strong>
+      <br>
+      Fabric: Polyester Blend
+      <br>
+      Colors: Orange, Yellow, Pink
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <div style="width: 200px; margin: 10px;">
+    <img src="https://example.com/image10.png" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Geeky T-shirt (GT)</strong>
+      <br>
+      Fabric: Cotton Blend
+      <br>
+      Colors: Gray, Green, Blue
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
 </div>
 
 <br>
