@@ -64,7 +64,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <details>
 <summary><strong>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!</strong></summary>
 
-<div style="text-align: center">(Not yet ready! I'll upload the products soon...)</div>
+<div><span style="text-align: center">(Not yet ready! I'll upload the products soon...)</span></div>
 
 <br>
 <br>
