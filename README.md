@@ -29,13 +29,13 @@ displayAboutMe();
 <summary><strong>More About Me &#43;</strong></summary>
   
 <pre>
-🙂 <strong>My Story:</strong>
+🙂 My Story:
 I am passionate about JavaScript and web technologies. Before the pandemic, I was a struggling entrepreneur in the clothing industry.
 'Cotton Logic' is a company where I hustled as a rainmaker. My business had its ups and downs, which were stressful, but I was learning
 something new every day. During the pandemic, I decided to bring my passion into the business. Nowadays, two roles in my real-life game are:
 'Web Development Service' and Rainmaking for 'Cotton Logic'. 
 
-👩‍💻 <h3>I Speak:</h3>
+👩‍💻 I Speak:
 English, Bangla(Native), Taglish, Hindi, and of course JavaScript!
 
 🎓 Certification:
@@ -70,9 +70,9 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 <pre>
- <h1>
+ <h2>
   Well Come to Cotton Logic Products Catalog
- </h1>
+ </h2>
 </pre>
 <div>
     
