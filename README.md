@@ -69,7 +69,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <br>
 <br>
-<div>Welcome to the<strong>Cotton Logic</strong>products catalog</div>
+<div>Welcome to the <strong>Cotton Logic</strong> products catalog</div>
 <br>
 <br>
 
