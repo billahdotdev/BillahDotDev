@@ -71,7 +71,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 
 <div style="width: 100%; display: flex; justify-content: space-around;">
-  <pre style="display: inline-block;">
+  <pre>
     <h1>Well Come to Cotton Logic Products Catalog</h1>
   </pre>
 </div>
