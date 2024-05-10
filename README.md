@@ -65,8 +65,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <br>
 <br>
-
-# Welcome to Cotton Logic JOLINA
+<div style="style="display: flex; text-align: center;">Welcome to Cotton Logic</div> 
 
 <br>
 <br>
