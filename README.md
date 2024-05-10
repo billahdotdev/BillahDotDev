@@ -74,31 +74,46 @@ Availability for July will be announced in June on my Twitter account. You can f
 <table style="width: 100%;">
   <tr>
     <td align="center" valign="top" style="width: 20%;">
-      <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 150px; height: auto;">
-    </td>
-    <td align="left" valign="top" style="width: 20%;">
-      <strong>JavaScript Men's T-shirt (JST) hhkdfhhfgdhf auhfkhksfuha hhkfhhk gjfgkhks uggsfkhuuh guihfsif y uyeehiu qwiouie iudheh  ihiuediouaoED gfh</strong>
+      <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" style="width: 150px; height: auto;">
+      <br>
+      <strong>JavaScript Men's T-shirt (JST)</strong>
+      <br>
+      Fabric: Cotton
+      <br>
+      Colors: Black, Gray, White
+      <br>
+      Size: S, M, L, XL
       <br>
       Price: $0.00
     </td>
     <td align="center" valign="top" style="width: 20%;">
-      <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 150px; height: auto;">
-    </td>
-    <td align="left" valign="top" style="width: 20%;">
+      <img src="https://m.me_.png" style="width: 150px; height: auto;">
+      <br>
       <strong>Python Men's T-shirt (PT)</strong>
       <br>
-      Price: $0.00
-    </td>
-    <td align="center" valign="top" style="width: 20%;">
-      <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 150px; height: auto;">
-    </td>
-    <td align="left" valign="top" style="width: 20%;">
-      <strong>Java Men's T-shirt (JT)</strong>
+      Fabric: Polyester
+      <br>
+      Colors: Red, Blue, Green
+      <br>
+      Size: S, M, L, XL
       <br>
       Price: $0.00
     </td>
+    <td align="center" valign="top" style="width: 20%;">
+      <img src="https://m.me.png" style="width: 150px; height: auto;">
+      <br>
+      <strong>Java Men's T-shirt (JT)</strong>
+      <br>
+      Fabric: Cotton Blend
+      <br>
+      Colors: Navy, Maroon, Olive
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </td>
+    <!-- Add more columns for additional products -->
   </tr>
-  <!-- Repeat the above row pattern for additional products -->
 </table>
 
 <br>
