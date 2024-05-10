@@ -70,9 +70,9 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 
-  <pre>
+  
     Welcome to the <strong>Cotton Logic</strong> products catalog
-  </pre>
+ 
 
 
 <br>
