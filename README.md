@@ -236,5 +236,70 @@ Or visit our online [store](google.com).
 Happy shopping! 🎁
 </details>
 
+<details>
+<summary><strong>🛒 Shop (Cool! Programming T-Shirts) NOT Ready Yet!</strong></summary>
+
+<div style="text-align: center;">(Not yet ready! I'll upload the products soon...)</div>
+
+<br>
+<br>
+<div style="text-align: center;">Welcome to Cotn Logic</div>
+<br>
+<br>
+
+<div style="width: 100%; display: flex; justify-content: space-around;">
+  <div style="width: 200px; margin: 10px; margin-left: auto; margin-right: auto;">
+    <img src="https://images.unsplash.com/photo-1516762689617-e1cffcef479d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvdGhpbmd8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>JavaScript Men's T-shirt (JST)</strong>
+      <br>
+      Fabric: Cotton
+      <br>
+      Colors: Black, Gray, White
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <br>
+  <br>
+  <div style="width: 200px; margin: 10px; margin-left: auto; margin-right: auto;">
+    <img src="https://images.unsplash.com/photo-1593726891090-b4c6bc09c819?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
+    <div style="text-align: center;">
+      <strong>Python Men's T-shirt (PT)</strong>
+      <br>
+      Fabric: Polyester
+      <br>
+      Colors: Red, Blue, Green
+      <br>
+      Size: S, M, L, XL
+      <br>
+      Price: $0.00
+    </div>
+  </div>
+  <!-- Remaining product divs -->
+</div>
+
+<br>
+<br>
+
+### 🛒 How to Order
+
+Ready to get your hands on these awesome products? Here's how:
+
+Send a WhatsApp/telegram/Viber message with the following information:
+- Product name and Code(s) or Screenshot(s)
+- Quantity
+- Shipping address
+
+💸 We'll respond to confirm your order and provide payment instructions.
+
+Or visit our online [store](google.com).
+
+Happy shopping! 🎁
+</details>
+
+
 
 
