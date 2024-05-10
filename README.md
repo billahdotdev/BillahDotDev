@@ -110,7 +110,7 @@ Availability for July will be announced in June on my Twitter account. You can f
       <br>
       Fabric: Cotton Blend
       <br>
-      Colors: Navy, Maroon, Olive
+      Colors: Navy, Maroon, Olive, White
       <br>
       Size: S, M, L, XL
       <br>
