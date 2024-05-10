@@ -43,8 +43,11 @@ I'm a Bangladesh University of Engineering and Technology (BUET) certified full-
 on a journey of modern web mastery at the University of Helsinki.
 </pre>
 </details>
+
+
 <details> 
 <summary><strong>Chat with Me</strong></summary>
+ 
 <pre> 
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, 
 Web Development, Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
@@ -55,15 +58,11 @@ fill out the <a href="https://app.grammarly.com/">Google Form</a> for the progra
 
 </details>
 
-
-
-
 <details>
 <summary><strong>Shop</strong> (Cool! Programming T-Shirts)</summary>
 <br>
 <br>
 <div><strong>(Not yet ready! I'll upload the products soon...)</strong></div>
-
 <br>
 <br>
 <div>
