@@ -73,7 +73,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <div style="width: 100%; display: flex; justify-content: space-around;">
   <div style="width: 200px; margin: 10px;">
-    <img src="https://oMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>JavaScript Men's T-shirt (JST)</strong>
       <br>
@@ -87,7 +87,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://m.me_.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Python Men's T-shirt (PT)</strong>
       <br>
@@ -101,7 +101,7 @@ Availability for July will be announced in June on my Twitter account. You can f
     </div>
   </div>
   <div style="width: 200px; margin: 10px;">
-    <img src="https://m.me.png" style="width: 100%;">
+    <img src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHN8ZW58MHx8MHx8fDA%3D" style="width: 100%;">
     <div style="text-align: center;">
       <strong>Java Men's T-shirt (JT)</strong>
       <br>
