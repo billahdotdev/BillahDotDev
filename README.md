@@ -70,7 +70,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 
-<div style="justify-content: center;">
+<div class="center">
   <pre>
     Well Come to Cotton Logic Products Catalog
   </pre>
