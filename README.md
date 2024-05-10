@@ -72,7 +72,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <pre>
  <div>
   <h1>
-  Well Come to Cotton Logic Products Catalog
+  <span style ="right">Well Come to Cotton Logic Products Catalog</span>
  </h1>
  </div>
 </pre>
