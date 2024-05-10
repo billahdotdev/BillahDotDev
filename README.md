@@ -28,7 +28,7 @@ displayAboutMe();
 <details> 
 <summary><strong>More About Me &#43;</strong></summary>
   
-```html
+<pre>
 🙂 <strong>My Story:</strong>
 I am passionate about JavaScript and web technologies. Before the pandemic, I was a struggling entrepreneur in the clothing industry.
 'Cotton Logic' is a company where I hustled as a rainmaker. My business had its ups and downs, which were stressful, but I was learning
@@ -42,7 +42,7 @@ English, Bangla(Native), Taglish, Hindi, and of course JavaScript!
 I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer
 on a journey of modern web mastery at the University of Helsinki.
 
-```
+</pre>
 </details>
 
 <details> 
