@@ -70,7 +70,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 
-<div style="text-align: center; padding: 20px; margin-left: 30px">
+<div>
   <pre>
     <h1>Welcome to the Cotton Logic products catalog</h1>
   </pre>
