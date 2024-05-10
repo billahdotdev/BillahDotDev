@@ -69,7 +69,7 @@ Availability for July will be announced in June on my Twitter account. You can f
 
 <br>
 <br>
-<pre><div style="text-align: center;">Welcome to Cotton Logic Products Catalog ▼</div></pre>
+<pre><div><strong>Welcome to Cotton Logic Products Catalog ▼</strong></div></pre>
 
 <br>
 <br>
