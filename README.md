@@ -70,6 +70,12 @@ Availability for July will be announced in June on my Twitter account. You can f
 <br>
 <br>
 <pre><div><strong>Welcome to Cotton Logic Products Catalog ▼</strong></div></pre>
+<div style="width: 100%; display: flex; justify-content: space-around;">
+  <div style="width: 200px; margin: 10px;">
+    <h1>Cotton</h1>
+  </div>
+  <br>
+  <br>
 
 <br>
 <br>
