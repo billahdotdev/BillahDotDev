@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=BillahDotdev&color=brightgreen)
+
 
 ```javascript
 // Welcome to my world!
