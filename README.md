@@ -1,3 +1,4 @@
+<marquee direction="right">Your moving text goes here</marquee>
 
 
 
