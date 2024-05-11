@@ -1,11 +1,4 @@
 
-<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2cd9cf064545821aeb1fb1de435b3fc7d91fb857'></script>
-
-
-
-
-
-
 ```javascript
 // Welcome to my world!
 
