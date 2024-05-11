@@ -1,4 +1,3 @@
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=BillahDotDev.BillahDotDev)](https://github.com/BillahDotDev/BillahDotDev)
 
 ```javascript
 // Welcome to my world!
