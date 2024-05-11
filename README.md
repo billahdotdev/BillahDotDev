@@ -1,4 +1,6 @@
 
+![](https://komarev.com/ghpvc/?username=BillahDotdev&color=green)
+
 ```javascript
 // Welcome to my world!
 
