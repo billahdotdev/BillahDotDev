@@ -1,19 +1,4 @@
-<div style="overflow: hidden;">
-  <div style="white-space: nowrap; animation: marquee 10s linear infinite;">
-    Your moving text goes here
-  </div>
-</div>
-
-<style>
-  @keyframes marquee {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
-
-
-
-
+ 
 ```javascript
 // Welcome to my world!
 
