@@ -62,7 +62,10 @@ fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb
 <summary><strong>Shop</strong> (Cool! Programming T-Shirts)</summary>
 <br>
 <br>
-<div><strong>(Not yet ready! I'll upload the products soon...)</strong></div>
+<div>
+ <strong>(Not yet ready! I'll upload the products soon...)</strong>
+ 
+</div>
 <br>
 <br>
 <div>
