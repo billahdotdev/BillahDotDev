@@ -11,7 +11,7 @@ const displayAboutMe = () => {
     tools: ["Git", "Material UI", "Figma", "Inkscape", "and More..."],
     interests: ["Web Technologies", "Reading", "Travelling"],
     personalWebSite: "http://billah.dev",
-    location: "Planet Earth 🌍",
+    location: "Manila, Philippines",
     contact: {
       email: "emasumbillah@gmail.com",
       twitter: "/emasumbillah",
