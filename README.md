@@ -1,23 +1,25 @@
  
 ```javascript
 // Welcome to my world!
-
+  
 const displayAboutMe = () => {
+ 
   const aboutMe = {
-    name: "Masum Billah",
+    name: "Abder Hmndesa",
     intro: "I'm a self-taught web developer dedicated to making online dreams a reality.",
     language: "JavaScript",
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
     tools: ["Git", "Figma", "Inkscape", "Material UI", "and More..."],
-    interests: ["WebTechnologies", "Reading", "Travelling"],
-    personalWebSite: "http://billah.dev",
+    interests: ["Web Technologies", "Reading", "Travelling"],
+    personalWebSite: "http://hamdesha.dev",
     location: "Manila, Philippines",
     contact: {
-      email: "emasumbillah@gmail.com",
-      twitter: "/eMasumBillah",
-      GitHub: "/billahDotDev",
+      email: "hamdellah@gmail.com",
+      twitter: "/hamdah",
+      GitHub: "/biDev",
     }
   };
+  
   console.log(aboutMe);
 };
 
