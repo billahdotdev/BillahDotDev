@@ -13,10 +13,11 @@ const displayAboutMe = () => {
     personalWebSite: "http://billah.dev",
     location: "Manila, Philippines",
     contact: {
-      email: "emasumbillah@gmail.com",
-      twitter: "/emasumbillah",
       GitHub: "/billahDotDev",
+      twitter: "/emasumbillah",
       Linkedin: "/emasumbillah",
+      email: "emasumbillah@gmail.com",
+      
     }
   };
 
