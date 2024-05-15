@@ -10,14 +10,14 @@ const displayAboutMe = () => {
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
     tools: ["Git", "Material UI", "Figma", "Inkscape", "and More..."],
     interests: ["Web Technologies", "Reading", "Travelling"],
-    personalWebSite: "http://billah.dev",
+    personalWebSite: "https://billah.dev",
+    rainmakerOf: "https://cottonlogic.com",
     location: "Manila, Philippines",
     contact: {
       GitHub: "/billahDotDev",
       twitter: "/emasumbillah",
       Linkedin: "/emasumbillah",
       email: "emasumbillah@gmail.com",
-      
     }
   };
 
@@ -25,7 +25,6 @@ const displayAboutMe = () => {
 };
 
 displayAboutMe();
-
 ```
 
 
