@@ -11,7 +11,6 @@ const displayAboutMe = () => {
     tools: ["Git", "Material UI", "Figma", "Inkscape", "and More..."],
     interests: ["Web Technologies", "Reading", "Travelling"],
     personalWebSite: "https://billah.dev",
-    rainmakerOf: "https://cottonlogic.com",
     location: "Manila, Philippines",
     contact: {
       GitHub: "/billahDotDev",
