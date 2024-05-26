@@ -65,8 +65,8 @@ fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb
 <br>
 <br>
 <div>
- <strong>(Not ready yet! All uploaded photos are just for testing purpose. Now it's just a demo site. I'll upload the products soon...)</strong>
- <h1>It's just a demo site</h1>
+ <strong>(It's just a demo site. I'll upload the products soon...)</strong>
+ <h1>All photos are demo!</h1>
  
 </div>
 <br>
