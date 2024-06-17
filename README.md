@@ -14,7 +14,7 @@ const displayAboutMe = () => {
     location: "Manila, Philippines",
     contact: {
       GitHub: "/billahDotDev",
-      twitter: "/emasumbillah",
+      X: "/billahdotdev",
       Linkedin: "/billahdotdev",
       email: "emasumbillah@gmail.com",
     }
