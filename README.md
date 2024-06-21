@@ -5,7 +5,7 @@
 const displayAboutMe = () => {
   const aboutMe = {
     name: "Masum Billah",
-    intro: "I'm a full-stack web developer dedicated to making online dreams a reality.",    
+    intro: "I'm a full-stack web developer dedicated to making online dreams a reality.",      
     languages: ["JavaScript", "TypeScript"],
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
     tools: ["Git", "Material UI", "Figma", "Inkscape", "and More..."],  
