@@ -48,7 +48,7 @@ on a journey of modern web mastery at the University of Helsinki.
 
 
 <details> 
-<summary><strong>Chat with Me</strong></summary>    
+<summary><strong>Chat with Me</strong></summary>       
  
 <pre> 
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, 
