@@ -117,7 +117,7 @@ fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb
       <br>
       Fabric: Cotton Blend
       <br>
-      Colors: Navy, Maroon, Olive, White
+      Colors: Navy, Maroon, Olive, White 
       <br>
       Size: S, M, L, XL
       <br>
