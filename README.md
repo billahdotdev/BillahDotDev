@@ -72,7 +72,7 @@ fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb
 <br>
 <br>
 <div>
- <h1>Welcome to the Cotton Logic products catalog</h1>
+ <h1>Welcome to the ....</h1>
 </div>
 <br>
 <br>
