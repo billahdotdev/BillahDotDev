@@ -15,7 +15,7 @@ const displayAboutMe = () => {
     contact: {
       GitHub: "/billahDotDev",
       X: "/billahdotdev",
-      Linkedin/in: "/billahdotdev",
+      Linkedin: "/billahdotdev",
       email: "emasumbillah@gmail.com",                 
     }
   };
