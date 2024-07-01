@@ -20,7 +20,7 @@ const displayAboutMe = () => {
     }
   };
 
-  console.log(aboutMe);
+  console.log(aboutMe);  
 };
 
 displayAboutMe();      
