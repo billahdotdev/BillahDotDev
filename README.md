@@ -61,7 +61,7 @@ fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb
 </details>
 
 <details>
-<summary><strong>Shop</strong> (Cool! Programming T-Shirts)</summary>  
+<summary><strong>Shop</strong> (Cool! Programming T-Shirts)</summary>    
 <br>
 <br>
 <div>
