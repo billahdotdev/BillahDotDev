@@ -11,7 +11,7 @@ const displayAboutMe = () => {
     tools: ["Git", "Material UI", "Figma", "Inkscape", "and More..."],  
     interests: ["Web Technologies", "Reading", "Travelling"],
     personalWebSite: "https://billah.dev",
-    location: "Dhaka, Bangladesh",
+    location: "Manila, Philippines",
     contact: {
       GitHub: "/BillahDotDev",
       X: "/billahdotdev",
