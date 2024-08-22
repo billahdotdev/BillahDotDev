@@ -58,7 +58,7 @@ The slots for May and June are fully booked. Availability for July will be annou
 fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb0upJO89fZXlB3xTG6W1qxsRAFUNTM74A/viewform?embedded=true" width="640" height="1442" frameborder="0" marginheight="0" marginwidth="0">Google Form</a> for the programming T-shirt business to get a quick response.
 </pre>
 
-</details>
+</details>   
 
 <details>
 <summary><strong>Shop</strong> (Cool! Programming T-Shirts)</summary>    
