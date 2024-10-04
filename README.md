@@ -13,7 +13,7 @@ const displayAboutMe = () => {
     location: "Manila, Philippines + Dhaka, Bangladesh",
     moreAboutMe: {
       X: "/billahdotdev",
-      Linkedin: "/billahdotdev"
+      Linkedin: "/billahdotdev",
       personalWebSite: "https://billah.dev",                 
     }
     contact: {
