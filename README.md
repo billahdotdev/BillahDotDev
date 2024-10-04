@@ -17,7 +17,7 @@ const displayAboutMe = () => {
       personalWebSite: "https://billah.dev",                 
     }
     contact: {
-      phone: +639156015542,
+      phone: "+639156015542", "+8801713401889",
       email: "billahdotdev@gmail.com",                 
     }
   };
