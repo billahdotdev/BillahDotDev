@@ -15,7 +15,7 @@ const displayAboutMe = () => {
       X: "/billahdotdev",
       Linkedin: "/billahdotdev",
       personalWebSite: "https://billah.dev",                 
-    }
+    },
     contact: {
       email: "billahdotdev@gmail.com",
       email: "billahdotdev@gmail.com",                 
