@@ -18,7 +18,7 @@ const displayAboutMe = () => {
     },
     contact: {
       email: "billahdotdev@gmail.com",
-      email: "billahdotdev@gmail.com",                 
+      phone: "+639156015542",                 
     }
   };
 
