@@ -247,7 +247,7 @@ fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb
 
 Ready to get your hands on these awesome products? Here's how:
 
-You can Fill up the ![Order Form](https://www.google.com)
+You can Fill up the [Order Form](https://www.google.com)
 
 Send a WhatsApp/messenger/Viber message with the following information:
 - Product name and Code(s)
