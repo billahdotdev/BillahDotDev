@@ -249,14 +249,16 @@ Ready to get your hands on these awesome products? Here's how:
 
 You can Fill up the ![Order Form](https://www.google.com)
 
-Send a WhatsApp/telegram/Viber message with the following information:
-- Product name and Code(s) or Screenshot(s)
+Send a WhatsApp/messenger/Viber message with the following information:
+- Product name and Code(s)
+-  Product Screenshot(s)
 - Quantity
 - Shipping address
+- Contact Details
 
 💸 We'll respond to confirm your order and provide payment instructions.
 
-Or visit our online shop [garmentik](www.garmentik.com).
+Or You can buy directly from [garmentik](www.garmentik.com).
 
 Happy shopping! 🎁
 </details>      
