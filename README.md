@@ -256,7 +256,7 @@ Send a WhatsApp/telegram/Viber message with the following information:
 
 💸 We'll respond to confirm your order and provide payment instructions.
 
-Or visit our online [garmentik](www.garmentik.com).
+Or visit our online shop [garmentik](www.garmentik.com).
 
 Happy shopping! 🎁
 </details>      
