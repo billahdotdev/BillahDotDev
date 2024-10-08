@@ -55,9 +55,9 @@ on a journey of modern web mastery at the University of Helsinki.
 <pre> 
 There are times when you need someone to listen or give some advice. Book a slot to chat - anything from personal to career, 
 Web Development, Graphic design, Digital Marketing, T-Shirt Business, and Mental Health.
-<br />
-The slots for October and November are fully booked. Availability for December will be announced in November on my Twitter account. 
 
+The slots for October and November are fully booked. Availability for December will be announced in November on my Twitter account. 
+<br />
 For T-shirt Business, fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSef8mJz6FOO0TR3hb0upJO89fZXlB3xTG6W1qxsRAFUNTM74A/viewform?embedded=true" width="640" height="1442" frameborder="0" marginheight="0" marginwidth="0">Google Form</a>. Please.
 </pre>
 
