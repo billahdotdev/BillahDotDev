@@ -10,7 +10,7 @@ const displayAboutMe = () => {
     coreTechnologies: ["MongoDB", "Express", "React", "Node"],
     tools: ["Git", "Material UI", "Figma", "Inkscape", "and More..."],  
     interests: ["Web Technologies", "Reading", "Travelling"],
-    location: "Manila, Philippines + Dhaka, Bangladesh",
+    locations: ["Manila, Philippines", "Dhaka, Bangladesh"],
     moreAboutMe: {
       X: "/billahdotdev",
       Linkedin: "/billahdotdev",
