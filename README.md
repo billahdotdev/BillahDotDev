@@ -17,7 +17,7 @@ const displayAboutMe = () => {
     virtualStranger: {
       X: "/billahdotdev",
       Linkedin: "/billahdotdev",
-      Just search for @billahdotdev,
+      andJustSearch: "billahdotdev",
                      
     },
     contact: {
