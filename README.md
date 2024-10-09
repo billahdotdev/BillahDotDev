@@ -15,7 +15,8 @@ const displayAboutMe = () => {
     personalWebApp: "https://billah.dev",
     antiSocialScroller: {
       X: "/billahdotdev",
-      Linkedin: "/billahdotdev",                
+      Linkedin: "/billahdotdev",
+      facebook: "/billahdotdev"                
     },
     contact: {
       email: "billahdotdev@gmail.com",
