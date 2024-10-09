@@ -13,9 +13,11 @@ const displayAboutMe = () => {
     interests: ["Web Technologies", "Reading", "Travelling"],
     locations: ["Manila, Philippines", "Dhaka, Bangladesh"],
     personalWebApp: "https://billah.dev",
-    Virtual Stranger: {
+
+    virtualStranger: {
       X: "/billahdotdev",
       Linkedin: "/billahdotdev",
+      Just search for @billahdotdev,
                      
     },
     contact: {
