@@ -71,7 +71,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 <br>
 <div>
- <strong>(Under Construction. I'll upload the products soon...)</strong>         
+     
  <h1>It's just a demo site!</h1>
  
 </div>
