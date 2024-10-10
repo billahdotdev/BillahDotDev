@@ -69,16 +69,8 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <details>
 <summary><strong>Shop [UNDER CONSTRUCTION!]</strong></summary>    
 <br>
-<br>
 <div>
-     
- <h1>It's just a demo site!</h1>
- 
-</div>
-<br>
-<br>
-<div>
- <h1>Welcome to the GARMENTIK</h1>  
+ <h1>Welcome to the GARMENTIK demo site! Original products will be uploaded soon. Stay tuned!</h1></h1>  
 </div>
 <br>
 <br>
