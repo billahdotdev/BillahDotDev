@@ -67,7 +67,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 </details>   
 
 <details>
-<summary><strong>Shop [UNDER CONSTRUCTION!]</strong> (Cool! Programming T-Shirts)</summary>    
+<summary><strong>Shop Cool! Programming Tee [UNDER CONSTRUCTION!]</strong></summary>    
 <br>
 <br>
 <div>
