@@ -33,7 +33,7 @@ displayAboutMe();
      
 
 <details> 
-<summary><strong>About Me &#43;</strong></summary>                                    
+<summary><strong>My Story &#43;</strong></summary>                                    
   
 <pre>
 🙂 My Story:      
