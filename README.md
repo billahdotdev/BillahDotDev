@@ -78,7 +78,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 <br>
 <div>
- <h1>Welcome to the ....</h1>  
+ <h1>Welcome to the GARMENTIK</h1>  
 </div>
 <br>
 <br>
