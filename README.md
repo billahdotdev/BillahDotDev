@@ -72,7 +72,7 @@ For T-shirt Business inquiries, please fill out the <a href="https://docs.google
 <br>
 <div>
      
- <h1>It's just a demo site! for GARMENTIK</h1>
+ <h1>It's just a demo site!</h1>
  
 </div>
 <br>
