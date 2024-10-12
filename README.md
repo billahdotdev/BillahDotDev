@@ -13,7 +13,7 @@ const displayAboutMe = () => {
     interests: ["Web Technologies", "Reading", "Travelling"],
     locations: ["Manila, Philippines", "Dhaka, Bangladesh"],
     WebAddress: "https://billah.dev",
-    aboutMe: {
+    social: {
       X: "/billahdotdev",
       Linkedin: "/billahdotdev",
       Search: "billahdotdev",               
