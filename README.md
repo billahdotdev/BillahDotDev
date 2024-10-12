@@ -12,11 +12,11 @@ const displayAboutMe = () => {
     tools: ["Git", "Material UI", "Figma", "Inkscape", "and More..."],  
     interests: ["Web Technologies", "Reading", "Travelling"],
     locations: ["Manila, Philippines", "Dhaka, Bangladesh"],
-    personalWebApp: "https://billah.dev",
-    socialLiink: {
+    WebAddress: "https://billah.dev",
+    aboutMe: {
       X: "/billahdotdev",
       Linkedin: "/billahdotdev",
-      JustSearch: "billahdotdev",               
+      Search: "billahdotdev",               
     },
     contact: {
       email: "billahdotdev@gmail.com",
