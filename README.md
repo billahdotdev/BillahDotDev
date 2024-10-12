@@ -14,7 +14,7 @@ const displayAboutMe = () => {
     locations: ["Manila, Philippines", "Dhaka, Bangladesh"],
     webAddress: "https://billah.dev", 
     stayConnected: {
-      x: "/billahdotdev",  // Changed X to x (camelCase)
+      x: "/billahdotdev", 
       linkedin: "/billahdotdev", 
       search: "billahdotdev",
     },
