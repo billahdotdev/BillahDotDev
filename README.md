@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/bangladesh/BillahDotDev.svg)](https://user-badge.committers.top/bangladesh/BillahDotDev)   
+[![committers.top badge](https://user-badge.committers.top/bangladesh/billahdotdev.svg)](https://user-badge.committers.top/bangladesh/Billahdotdev)   
                                                                                      
 ```javascript         
 // Welcome to my world!                   
