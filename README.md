@@ -27,7 +27,7 @@ const displayAboutMe = () => {
   console.log(aboutMe);
 };
 
-displayAboutMe();
+displayAboutMe();   
 
 ```
      
