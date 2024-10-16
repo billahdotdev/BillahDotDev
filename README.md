@@ -43,7 +43,7 @@ I am passionate about JavaScript and web technologies. Before the pandemic, I wa
  are: Rainmaking for 'GARMENTIK' and 'Web Development Service'. 
 
 👩‍💻 I Speak:
-English, Bangla(Native), Taglish, and of course JavaScript!         
+English, Bangla(Native), Taglish, and of course JavaScript!          
 
 🎓 Certification:
 I'm a Bangladesh University of Engineering and Technology (BUET) certified full-stack web developer   
